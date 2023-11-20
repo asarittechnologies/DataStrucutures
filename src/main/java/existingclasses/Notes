@@ -1,0 +1,433 @@
+To be compliant to J2EE, a webapp should not use any thread.
+A high number of imports can indicate a high degree of coupling within an object.
+DefaultChannelFallback -- Changed enum values because of below voilation
+        The String literal &quot;webchat&quot; appears 4 times in this file; the first occurrence is on line 4
+Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+        try(InputStream is = Files.newInputStream(Paths.get(file))){
+        }
+        try(OutputStream is = Files.newInputStream(Paths.get(file))){
+        }
+        try(BufferedReader is = Files.newBufferedReader(Paths.get(file))){
+        }
+        try(BufferWriter is = Files.newBufferWriter(Paths.get(file))){
+        }
+ApplicationSettings -- Too many fields
+
+Request Payload
+{
+    "partnerAccountId": ""
+}
+https://jira.expedia.biz/browse/ISP-39018
+
+how u r handling these vulenrability issues, is this as below:
+1: changing the dependency in pom. -> build locally -> if it is success -> push changes to git -> scan the commit id
+2: get latest report and repeat the same process
+
+partner-vrbo  75e32ff5-7442-41b2-80ef-a70911b19f57 - TEST_LOCALIZE_1
+library/vap-content-management-service:206fe6edcb65240e714fb2ecc7e26b73132cbf7f
+
+Expedia  eb11b92f-bdeb-4f5f-b97e-4cde5b2f9dc3  req id: 7e078790-6cd5-4af0-a56c-a51f8a704d07  code = TEST_LOCALIZE
+vrbo --   75e32ff5-7442-41b2-80ef-a70911b19f57  -- TEST_LOCALIZE_2  demo env  req : d54facd6-af2e-44bc-b2b8-10e8017e03f2"
+hotel -- 3ccdcaee-e070-4c21-84f2-c81b46db2524  req id: 16e2e938-f6da-4e71-baa6-a9ff30463894  code= TEST_LOCALIZE_1
+
+total - 106, critical - 8, high - 54, medium - 28, low - 16   build number 1433018 twist lock
+total - 96, critical - 6, high - 49, medium - 26, low - 15 build number 1433442 twist lock
+total - 93, critical - 6, high - 48, medium - 24, low - 15
+
+total - 170, critical - 19, high - 86, medium - 60, low - 5
+
+"%JAVA_HOME%/bin/keytool" -import -keystore "%JAVA_HOME%/jre/lib/security/cacerts" -storepass changeit -noprompt -file ExpediaRoot2015.crt -alias ExpediaRoot2015
+ ..\..\bin\keytool -import -trustcacerts -keystore cacerts -storepass changeit -noprompt -alias yourAliasName -file path\to\certificate.cer
+
+"C:\Program Files\Java\jdk-11\bin\keytool" -import -keystore C:\Program Files\Java\jdk-11\lib\security\cacerts -storepass changeit -noprompt -file ExpediaRoot2015.crt -alias ExpediaRoot2015
+
+keytool -importcert -file  ExpediaRoot2015.crt -cacerts -keypass changeit -storepass changeit -noprompt  -alias ExpediaRoot2015
+
+"C:\Program Files\Java\jdk-11\bin\keytool" -importcert -file C:\expedia\expedia-workspace\cpce-resource-on-boarding-service\certs\ExpediaRoot2015.crt -alias ExpediaRoot2015 -keystore "C:\Program Files\Java\jdk-11\lib\security\cacerts" -storepass changeit
+"C:\Program Files\Java\jdk-11\bin\keytool" -importcert -fileC:\expedia\expedia-workspace\cpce-resource-on-boarding-service\certs\Internal2015C1.crt  -alias   Internal2015C1.crt -keystore "C:\Program Files\Java\jdk-11\lib\security\cacerts" -storepass changeit
+
+
+nok9ptq71o28flb0ftvin2p6p
+jhqg18m9v7uoa8d7ltegvri8nf7hid4ksl1bvrhqm0f1fh322tb
+
+messagesToLocalize/4e087b84-06b1-49f7-83d0-d637188c6a7d/en_US_de-DE.properties
+https://lab.cp.expedia.com/api/translationHistory/bbe2eb28-6e3a-48db-a00e-19f7deafbe39/content/download
+  public BusinessSegment searchBusinessSegmentByTpIdEapIdAndPartnerId(String partnerId,String tpId,String EapId){
+
+    String channelOriginUri = new StringBuffer(FORWARD_SLASH).append(PARTNERS_LIST_ATTRIBUTE)
+            .append(FORWARD_SLASH)
+            .append(partnerId)
+            .append(FORWARD_SLASH)
+            .append(BUSINESS_SEGMENT).append(FORWARD_SLASH).append(tpId).append(FORWARD_SLASH)
+            .append(EapId).append(FORWARD_SLASH)
+            .append(CHANNEL_ORIGIN)
+            .toString();
+  }
+
+com.expedia.www:vap-content-management-service:war:1.0-SNAPSHOT
+[INFO] +- junit:junit:jar:4.13.2:test
+[INFO] |  \- org.hamcrest:hamcrest-core:jar:2.2:test
+[INFO] +- io.netty:netty-codec:jar:4.1.87.Final:compile
+[INFO] |  +- io.netty:netty-common:jar:4.1.85.Final:compile
+[INFO] |  +- io.netty:netty-buffer:jar:4.1.85.Final:compile
+[INFO] |  \- io.netty:netty-transport:jar:4.1.85.Final:compile
+[INFO] |     \- io.netty:netty-resolver:jar:4.1.85.Final:compile
+[INFO] +- org.freemarker:freemarker:jar:2.3.30:compile
+[INFO] +- org.apache.avro:avro:jar:1.10.2:compile
+[INFO] |  +- com.fasterxml.jackson.core:jackson-databind:jar:2.13.4.2:compile
+[INFO] |  \- org.slf4j:slf4j-api:jar:1.7.36:compile
+[INFO] +- io.grpc:grpc-netty-shaded:jar:1.53.0:compile
+[INFO] |  +- com.google.guava:guava:jar:31.1-android:compile
+[INFO] |  |  +- com.google.guava:failureaccess:jar:1.0.1:compile
+[INFO] |  |  +- com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava:compile
+[INFO] |  |  +- com.google.code.findbugs:jsr305:jar:3.0.2:compile
+[INFO] |  |  +- org.checkerframework:checker-qual:jar:3.12.0:compile
+[INFO] |  |  \- com.google.j2objc:j2objc-annotations:jar:1.3:compile
+[INFO] |  +- com.google.errorprone:error_prone_annotations:jar:2.14.0:compile
+[INFO] |  +- io.perfmark:perfmark-api:jar:0.25.0:runtime
+[INFO] |  \- io.grpc:grpc-core:jar:1.53.0:compile
+[INFO] |     +- io.grpc:grpc-api:jar:1.53.0:compile
+[INFO] |     |  \- io.grpc:grpc-context:jar:1.53.0:compile
+[INFO] |     +- com.google.android:annotations:jar:4.1.1.4:runtime
+[INFO] |     \- org.codehaus.mojo:animal-sniffer-annotations:jar:1.21:runtime
+[INFO] +- com.expedia.www.platform:platform-monitoring:jar:1.2.1:compile
+[INFO] |  +- com.netflix.servo:servo-core:jar:0.10.1:compile
+[INFO] |  |  \- com.netflix.servo:servo-internal:jar:0.10.1:runtime
+[INFO] |  +- com.expedia.www.commons:commons-statsd:jar:0.0.20:compile
+[INFO] |  |  \- io.netty:netty-handler:jar:4.1.85.Final:compile
+[INFO] |  |     \- io.netty:netty-transport-native-unix-common:jar:4.1.85.Final:compile
+[INFO] |  +- commons-io:commons-io:jar:2.4:compile
+[INFO] |  +- commons-lang:commons-lang:jar:2.6:compile
+[INFO] |  \- org.apache.maven:maven-artifact:jar:2.0.6:compile
+[INFO] +- com.expedia.www.cpce.commons:cpce-event-client-library:jar:4.1.4:compile
+[INFO] |  +- io.opentracing.contrib:opentracing-kafka-client:jar:0.1.11:compile
+[INFO] |  +- io.opentracing.contrib:opentracing-kafka-streams:jar:0.1.11:compile
+[INFO] |  +- net.sourceforge.argparse4j:argparse4j:jar:0.7.0:compile
+[INFO] |  +- com.datadoghq:java-dogstatsd-client:jar:2.9.0:compile
+[INFO] |  |  \- com.github.jnr:jnr-unixsocket:jar:0.27:compile
+[INFO] |  |     +- com.github.jnr:jnr-ffi:jar:2.1.12:compile
+[INFO] |  |     |  +- com.github.jnr:jffi:jar:1.2.23:compile
+[INFO] |  |     |  +- com.github.jnr:jffi:jar:native:1.2.23:runtime
+[INFO] |  |     |  +- org.ow2.asm:asm-commons:jar:7.1:compile
+[INFO] |  |     |  +- org.ow2.asm:asm-analysis:jar:7.1:compile
+[INFO] |  |     |  +- org.ow2.asm:asm-tree:jar:7.1:compile
+[INFO] |  |     |  +- org.ow2.asm:asm-util:jar:7.1:compile
+[INFO] |  |     |  +- com.github.jnr:jnr-a64asm:jar:1.0.0:compile
+[INFO] |  |     |  \- com.github.jnr:jnr-x86asm:jar:1.0.2:compile
+[INFO] |  |     +- com.github.jnr:jnr-constants:jar:0.9.15:compile
+[INFO] |  |     +- com.github.jnr:jnr-enxio:jar:0.25:compile
+[INFO] |  |     \- com.github.jnr:jnr-posix:jar:3.0.53:compile
+[INFO] |  +- org.apache.kafka:kafka-streams-test-utils:jar:test:2.8.2:compile
+[INFO] |  +- io.github.resilience4j:resilience4j-core:jar:1.3.1:compile
+[INFO] |  |  \- io.vavr:vavr:jar:0.10.2:compile
+[INFO] |  |     \- io.vavr:vavr-match:jar:0.10.2:compile
+[INFO] |  +- io.github.resilience4j:resilience4j-retry:jar:1.3.1:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-api:jar:2.17.1:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-core:jar:2.17.1:compile
+[INFO] |  +- io.confluent:kafka-streams-avro-serde:jar:6.2.1:compile
+[INFO] |  |  +- io.confluent:kafka-schema-registry-client:jar:6.2.1:compile
+[INFO] |  |  |  +- jakarta.ws.rs:jakarta.ws.rs-api:jar:2.1.6:compile
+[INFO] |  |  |  +- org.glassfish.jersey.core:jersey-common:jar:2.35:compile
+[INFO] |  |  |  |  +- org.glassfish.hk2.external:jakarta.inject:jar:2.6.1:compile
+[INFO] |  |  |  |  \- org.glassfish.hk2:osgi-resource-locator:jar:1.0.3:compile
+[INFO] |  |  |  \- io.swagger:swagger-core:jar:1.6.2:compile
+[INFO] |  |  \- io.confluent:common-utils:jar:6.2.1:compile
+[INFO] |  \- io.confluent:kafka-avro-serializer:jar:6.2.1:compile
+[INFO] |     \- io.confluent:kafka-schema-serializer:jar:6.2.1:compile
+[INFO] +- com.expedia.www.platform:platform-diagnostics-main:jar:0.0.43:compile
+[INFO] |  \- com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:jar:2.13.4:compile
+[INFO] |     \- org.yaml:snakeyaml:jar:1.30:compile
+[INFO] +- com.expedia.www.platform:platform-isactive:jar:1.1.18:compile
+[INFO] +- com.expedia.gco.commons:gco-commons-validator:jar:3.1.0:compile
+[INFO] +- com.expedia.gco.commons:gco-commons-rest-proxy:jar:3.5.1:compile
+[INFO] |  +- com.expedia.gco.commons:gco-commons-proxy:jar:0.9.0:compile
+[INFO] |  +- org.springframework:spring-web:jar:5.3.24:compile
+[INFO] |  +- org.apache.httpcomponents:httpclient:jar:4.5.13:compile
+[INFO] |  |  \- org.apache.httpcomponents:httpcore:jar:4.4.15:compile
+[INFO] |  \- com.expedia.gco.commons:gco-commons-secret-manager:jar:1.1.0:compile
+[INFO] |     \- com.amazonaws:aws-java-sdk-secretsmanager:jar:1.11.534:compile
+[INFO] +- net.lingala.zip4j:zip4j:jar:2.11.4:compile
+[INFO] +- commons-validator:commons-validator:jar:1.6:compile
+[INFO] |  +- commons-beanutils:commons-beanutils:jar:1.9.2:compile
+[INFO] |  +- commons-digester:commons-digester:jar:1.8.1:compile
+[INFO] |  +- commons-logging:commons-logging:jar:1.2:compile
+[INFO] |  \- commons-collections:commons-collections:jar:3.2.2:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-web:jar:2.7.6:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter:jar:2.7.6:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot:jar:2.7.6:compile
+[INFO] |  |  +- org.springframework.boot:spring-boot-autoconfigure:jar:2.7.6:compile
+[INFO] |  |  \- jakarta.annotation:jakarta.annotation-api:jar:1.3.5:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-json:jar:2.7.6:compile
+[INFO] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.13.4:compile
+[INFO] |  |  +- com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.13.4:compile
+[INFO] |  |  \- com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.13.4:compile
+[INFO] |  +- org.springframework.boot:spring-boot-starter-tomcat:jar:2.7.6:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.69:compile
+[INFO] |  |  +- org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.69:compile
+[INFO] |  |  \- org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.69:compile
+[INFO] |  \- org.springframework:spring-webmvc:jar:5.3.24:compile
+[INFO] |     +- org.springframework:spring-context:jar:5.3.24:compile
+[INFO] |     \- org.springframework:spring-expression:jar:5.3.24:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-actuator:jar:2.7.6:compile
+[INFO] |  +- org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.7.6:compile
+[INFO] |  |  \- org.springframework.boot:spring-boot-actuator:jar:2.7.6:compile
+[INFO] |  \- io.micrometer:micrometer-core:jar:1.9.6:compile
+[INFO] |     +- org.hdrhistogram:HdrHistogram:jar:2.1.12:compile
+[INFO] |     \- org.latencyutils:LatencyUtils:jar:2.0.3:runtime
+[INFO] +- org.springframework.boot:spring-boot-starter-log4j2:jar:2.7.6:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-slf4j-impl:jar:2.17.1:compile
+[INFO] |  +- org.apache.logging.log4j:log4j-jul:jar:2.17.1:compile
+[INFO] |  \- org.slf4j:jul-to-slf4j:jar:1.7.36:compile
+[INFO] +- org.apache.kafka:kafka-streams:jar:2.8.2:compile
+[INFO] |  +- org.apache.kafka:connect-json:jar:2.8.2:compile
+[INFO] |  |  \- org.apache.kafka:connect-api:jar:2.8.2:compile
+[INFO] |  \- org.rocksdb:rocksdbjni:jar:5.18.4:compile
+[INFO] +- org.apache.kafka:kafka-clients:jar:2.8.2:compile
+[INFO] |  +- com.github.luben:zstd-jni:jar:1.4.9-1:compile
+[INFO] |  +- org.lz4:lz4-java:jar:1.7.1:compile
+[INFO] |  \- org.xerial.snappy:snappy-java:jar:1.1.8.1:compile
+[INFO] +- com.ryantenney.metrics:metrics-spring:jar:3.1.3:compile
+[INFO] |  +- io.dropwizard.metrics:metrics-core:jar:4.2.13:compile
+[INFO] |  +- io.dropwizard.metrics:metrics-healthchecks:jar:4.2.13:compile
+[INFO] |  +- io.dropwizard.metrics:metrics-annotation:jar:4.2.13:compile
+[INFO] |  +- org.springframework:spring-core:jar:5.3.24:compile
+[INFO] |  |  \- org.springframework:spring-jcl:jar:5.3.24:compile
+[INFO] |  +- org.springframework:spring-beans:jar:5.3.24:compile
+[INFO] |  +- org.springframework:spring-context-support:jar:5.3.24:compile
+[INFO] |  \- org.springframework:spring-aop:jar:5.3.24:compile
+[INFO] +- io.dropwizard.metrics:metrics-servlet:jar:4.2.13:compile
+[INFO] +- io.dropwizard.metrics:metrics-servlets:jar:4.2.13:compile
+[INFO] |  +- io.dropwizard.metrics:metrics-json:jar:4.2.13:compile
+[INFO] |  +- io.dropwizard.metrics:metrics-jvm:jar:4.2.13:compile
+[INFO] |  \- com.helger:profiler:jar:1.1.1:compile
+[INFO] +- io.springfox:springfox-boot-starter:jar:3.0.0:compile
+[INFO] |  +- io.springfox:springfox-oas:jar:3.0.0:compile
+[INFO] |  |  +- io.swagger.core.v3:swagger-annotations:jar:2.1.2:compile
+[INFO] |  |  +- io.swagger.core.v3:swagger-models:jar:2.1.2:compile
+[INFO] |  |  +- io.springfox:springfox-spi:jar:3.0.0:compile
+[INFO] |  |  +- io.springfox:springfox-schema:jar:3.0.0:compile
+[INFO] |  |  +- io.springfox:springfox-core:jar:3.0.0:compile
+[INFO] |  |  +- io.springfox:springfox-spring-web:jar:3.0.0:compile
+[INFO] |  |  |  \- io.github.classgraph:classgraph:jar:4.8.83:compile
+[INFO] |  |  +- io.springfox:springfox-spring-webmvc:jar:3.0.0:compile
+[INFO] |  |  +- io.springfox:springfox-spring-webflux:jar:3.0.0:compile
+[INFO] |  |  +- io.springfox:springfox-swagger-common:jar:3.0.0:compile
+[INFO] |  |  \- org.mapstruct:mapstruct:jar:1.3.1.Final:runtime
+[INFO] |  +- io.springfox:springfox-data-rest:jar:3.0.0:compile
+[INFO] |  +- io.springfox:springfox-bean-validators:jar:3.0.0:compile
+[INFO] |  +- io.springfox:springfox-swagger2:jar:3.0.0:compile
+[INFO] |  |  +- io.swagger:swagger-annotations:jar:1.5.20:compile
+[INFO] |  |  \- io.swagger:swagger-models:jar:1.5.20:compile
+[INFO] |  +- io.springfox:springfox-swagger-ui:jar:3.0.0:compile
+[INFO] |  +- com.fasterxml:classmate:jar:1.5.1:compile
+[INFO] |  +- org.springframework.plugin:spring-plugin-core:jar:2.0.0.RELEASE:compile
+[INFO] |  \- org.springframework.plugin:spring-plugin-metadata:jar:2.0.0.RELEASE:compile
+[INFO] +- com.expedia.mozart.managers:mozart-dyff-manager:jar:2.1.4:compile
+[INFO] |  +- org.jetbrains.kotlin:kotlin-stdlib:jar:1.6.21:compile
+[INFO] |  |  \- org.jetbrains.kotlin:kotlin-stdlib-common:jar:1.6.21:compile
+[INFO] |  +- org.jetbrains.kotlin:kotlin-reflect:jar:1.6.21:compile
+[INFO] |  +- org.jetbrains.kotlin:kotlin-script-runtime:jar:1.6.21:compile
+[INFO] |  +- io.gitlab.arturbosch.detekt:detekt-cli:jar:1.0.0-RC11:compile
+[INFO] |  |  +- io.gitlab.arturbosch.detekt:detekt-core:jar:1.0.0-RC11:runtime
+[INFO] |  |  |  \- io.gitlab.arturbosch.detekt:detekt-api:jar:1.0.0-RC11:runtime
+[INFO] |  |  +- com.beust:jcommander:jar:1.74:runtime
+[INFO] |  |  +- org.jetbrains.kotlin:kotlin-compiler-embeddable:jar:1.6.21:runtime
+[INFO] |  |  |  +- org.jetbrains.kotlin:kotlin-daemon-embeddable:jar:1.6.21:runtime
+[INFO] |  |  |  +- org.jetbrains.intellij.deps:trove4j:jar:1.0.20200330:runtime
+[INFO] |  |  |  \- net.java.dev.jna:jna:jar:5.6.0:runtime
+[INFO] |  |  \- io.gitlab.arturbosch.detekt:detekt-rules:jar:1.0.0-RC11:runtime
+[INFO] |  +- javax.inject:javax.inject:jar:1:compile
+[INFO] |  \- com.expedia.www.epc.dyff:epc-dyff-lib:jar:6.1.0-SNAPSHOT:compile
+[INFO] |     +- com.expedia.www.epc.dyff:epc-dyff-shared:jar:6.1.0-SNAPSHOT:compile
+[INFO] |     |  \- javax.validation:validation-api:jar:2.0.1.Final:compile
+[INFO] |     +- javax.json:javax.json-api:jar:1.1.4:compile
+[INFO] |     +- org.glassfish:javax.json:jar:1.0:compile
+[INFO] |     +- com.netflix.hystrix:hystrix-core:jar:1.5.0:compile
+[INFO] |     |  +- com.netflix.archaius:archaius-core:jar:0.4.1:compile
+[INFO] |     |  \- io.reactivex:rxjava:jar:1.3.8:compile
+[INFO] |     +- com.amazonaws:aws-java-sdk-s3:jar:1.11.534:compile
+[INFO] |     |  \- com.amazonaws:aws-java-sdk-kms:jar:1.11.534:compile
+[INFO] |     +- javax.servlet:javax.servlet-api:jar:4.0.1:compile
+[INFO] |     \- com.esotericsoftware:kryo:jar:4.0.1:compile
+[INFO] |        +- com.esotericsoftware:reflectasm:jar:1.11.3:compile
+[INFO] |        \- com.esotericsoftware:minlog:jar:1.3.0:compile
+[INFO] +- com.amazonaws:aws-java-sdk-kinesis:jar:1.11.534:compile
+[INFO] |  \- com.amazonaws:jmespath-java:jar:1.11.534:compile
+[INFO] +- com.amazonaws:aws-java-sdk-core:jar:1.11.534:compile
+[INFO] |  +- software.amazon.ion:ion-java:jar:1.0.2:compile
+[INFO] |  +- com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:jar:2.13.4:compile
+[INFO] |  \- joda-time:joda-time:jar:2.8.1:compile
+[INFO] +- com.amazonaws:aws-java-sdk-sns:jar:1.11.534:compile
+[INFO] |  \- com.amazonaws:aws-java-sdk-sqs:jar:1.11.534:compile
+[INFO] +- com.amazonaws:aws-java-sdk-sts:jar:1.11.534:compile
+[INFO] +- com.expedia.www:haystack-client-core:jar:0.4.0:compile
+[INFO] |  +- com.expedia.www:haystack-client-metrics-api:jar:0.4.0:compile
+[INFO] |  +- com.expedia.www:haystack-remote-clients:jar:0.4.0:compile
+[INFO] |  +- com.expedia.www:haystack-idl-java:jar:1.0.64:compile
+[INFO] |  |  \- com.google.protobuf:protobuf-java:jar:3.3.1:compile
+[INFO] |  +- io.opentracing:opentracing-api:jar:0.33.0:compile
+[INFO] |  +- io.opentracing:opentracing-util:jar:0.33.0:compile
+[INFO] |  |  \- io.opentracing:opentracing-noop:jar:0.33.0:compile
+[INFO] |  +- io.grpc:grpc-protobuf:jar:1.9.0:compile
+[INFO] |  |  +- com.google.protobuf:protobuf-java-util:jar:3.5.1:compile
+[INFO] |  |  +- com.google.api.grpc:proto-google-common-protos:jar:1.0.0:compile
+[INFO] |  |  \- io.grpc:grpc-protobuf-lite:jar:1.9.0:compile
+[INFO] |  +- io.grpc:grpc-stub:jar:1.9.0:compile
+[INFO] |  +- org.apache.commons:commons-lang3:jar:3.12.0:compile
+[INFO] |  \- com.fasterxml.uuid:java-uuid-generator:jar:3.1.4:compile
+[INFO] +- org.aspectj:aspectjweaver:jar:1.9.1:compile
+[INFO] +- com.expedia.mozart.aop:mozart-aop:jar:1.9.2:compile
+[INFO] |  +- aopalliance:aopalliance:jar:1.0:compile
+[INFO] |  +- com.expedia.mozart.requestcontext:mozart-request-context:jar:5.2.0:compile
+[INFO] |  +- com.expedia.gco.aegis:aegis-data-protection-manager:jar:1.7.23:compile
+[INFO] |  |  +- com.googlecode.json-simple:json-simple:jar:1.1.1:compile
+[INFO] |  |  +- com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.13.4:compile
+[INFO] |  |  \- org.codehaus.jackson:jackson-core-asl:jar:1.9.12:compile
+[INFO] |  \- com.expedia.gco.commons:gco-commons-request-context:jar:0.0.2:compile
+[INFO] +- org.springframework.boot:spring-boot-starter-test:jar:2.7.6:test
+[INFO] |  +- org.springframework.boot:spring-boot-test:jar:2.7.6:test
+[INFO] |  +- org.springframework.boot:spring-boot-test-autoconfigure:jar:2.7.6:test
+[INFO] |  +- com.jayway.jsonpath:json-path:jar:2.7.0:test
+[INFO] |  |  \- net.minidev:json-smart:jar:2.4.8:test
+[INFO] |  |     \- net.minidev:accessors-smart:jar:2.4.8:test
+[INFO] |  +- jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3:compile
+[INFO] |  |  \- jakarta.activation:jakarta.activation-api:jar:1.2.2:compile
+[INFO] |  +- org.assertj:assertj-core:jar:3.22.0:test
+[INFO] |  +- org.hamcrest:hamcrest:jar:2.2:test
+[INFO] |  +- org.junit.jupiter:junit-jupiter:jar:5.8.2:test
+[INFO] |  |  +- org.junit.jupiter:junit-jupiter-api:jar:5.8.2:test
+[INFO] |  |  |  +- org.opentest4j:opentest4j:jar:1.2.0:test
+[INFO] |  |  |  +- org.junit.platform:junit-platform-commons:jar:1.8.2:test
+[INFO] |  |  |  \- org.apiguardian:apiguardian-api:jar:1.1.2:test
+[INFO] |  |  +- org.junit.jupiter:junit-jupiter-params:jar:5.8.2:test
+[INFO] |  |  \- org.junit.jupiter:junit-jupiter-engine:jar:5.8.2:test
+[INFO] |  |     \- org.junit.platform:junit-platform-engine:jar:1.8.2:test
+[INFO] |  +- org.mockito:mockito-core:jar:4.5.1:test
+[INFO] |  |  +- net.bytebuddy:byte-buddy:jar:1.12.19:compile
+[INFO] |  |  +- net.bytebuddy:byte-buddy-agent:jar:1.12.19:test
+[INFO] |  |  \- org.objenesis:objenesis:jar:3.2:compile
+[INFO] |  +- org.mockito:mockito-junit-jupiter:jar:4.5.1:test
+[INFO] |  +- org.skyscreamer:jsonassert:jar:1.5.1:test
+[INFO] |  |  \- com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test
+[INFO] |  +- org.springframework:spring-test:jar:5.3.24:test
+[INFO] |  \- org.xmlunit:xmlunit-core:jar:2.9.0:test
+[INFO] +- org.projectlombok:lombok:jar:1.16.22:provided
+[INFO] +- com.google.code.gson:gson:jar:2.9.1:compile
+[INFO] +- com.mikesamuel:json-sanitizer:jar:1.2.3:compile
+[INFO] +- org.apache.maven.plugins:maven-jxr-plugin:jar:3.3.0:compile
+[INFO] |  +- org.apache.maven:maven-jxr:jar:3.3.0:compile
+[INFO] |  |  \- org.apache.velocity:velocity:jar:1.7:compile
+[INFO] |  +- org.apache.maven.wagon:wagon-provider-api:jar:2.8:compile
+[INFO] |  +- org.apache.maven.reporting:maven-reporting-api:jar:3.1.1:compile
+[INFO] |  |  \- org.apache.maven.doxia:doxia-sink-api:jar:1.11.1:compile
+[INFO] |  |     \- org.apache.maven.doxia:doxia-logging-api:jar:1.11.1:compile
+[INFO] |  +- org.apache.maven.reporting:maven-reporting-impl:jar:3.2.0:compile
+[INFO] |  |  +- org.apache.maven:maven-core:jar:3.1.0:compile
+[INFO] |  |  |  +- org.apache.maven:maven-model:jar:3.1.0:compile
+[INFO] |  |  |  +- org.apache.maven:maven-settings:jar:3.1.0:compile
+[INFO] |  |  |  +- org.apache.maven:maven-settings-builder:jar:3.1.0:compile
+[INFO] |  |  |  +- org.apache.maven:maven-repository-metadata:jar:3.1.0:compile
+[INFO] |  |  |  +- org.apache.maven:maven-model-builder:jar:3.1.0:compile
+[INFO] |  |  |  +- org.apache.maven:maven-aether-provider:jar:3.1.0:compile
+[INFO] |  |  |  |  \- org.eclipse.aether:aether-spi:jar:0.9.0.M2:compile
+[INFO] |  |  |  +- org.eclipse.aether:aether-impl:jar:0.9.0.M2:compile
+[INFO] |  |  |  +- org.eclipse.aether:aether-api:jar:0.9.0.M2:compile
+[INFO] |  |  |  +- org.eclipse.aether:aether-util:jar:0.9.0.M2:compile
+[INFO] |  |  |  +- org.eclipse.sisu:org.eclipse.sisu.plexus:jar:0.0.0.M2a:compile
+[INFO] |  |  |  |  +- javax.enterprise:cdi-api:jar:1.0:compile
+[INFO] |  |  |  |  |  \- javax.annotation:jsr250-api:jar:1.0:compile
+[INFO] |  |  |  |  +- org.sonatype.sisu:sisu-guice:jar:no_aop:3.1.0:compile
+[INFO] |  |  |  |  \- org.eclipse.sisu:org.eclipse.sisu.inject:jar:0.0.0.M2a:compile
+[INFO] |  |  |  |     \- asm:asm:jar:3.3.1:compile
+[INFO] |  |  |  +- org.codehaus.plexus:plexus-interpolation:jar:1.16:compile
+[INFO] |  |  |  +- org.codehaus.plexus:plexus-classworlds:jar:2.4.2:compile
+[INFO] |  |  |  +- org.codehaus.plexus:plexus-component-annotations:jar:1.5.5:compile
+[INFO] |  |  |  \- org.sonatype.plexus:plexus-sec-dispatcher:jar:1.3:compile
+[INFO] |  |  |     \- org.sonatype.plexus:plexus-cipher:jar:1.4:compile
+[INFO] |  |  +- org.apache.maven:maven-plugin-api:jar:3.1.0:compile
+[INFO] |  |  +- org.apache.maven.shared:maven-shared-utils:jar:3.3.4:compile
+[INFO] |  |  +- org.apache.maven.doxia:doxia-decoration-model:jar:1.11.1:compile
+[INFO] |  |  +- org.apache.maven.doxia:doxia-core:jar:1.11.1:compile
+[INFO] |  |  |  +- org.codehaus.plexus:plexus-container-default:jar:2.1.0:compile
+[INFO] |  |  |  |  +- org.apache.xbean:xbean-reflect:jar:3.7:compile
+[INFO] |  |  |  |  \- com.google.collections:google-collections:jar:1.0:compile
+[INFO] |  |  |  \- org.apache.commons:commons-text:jar:1.3:compile
+[INFO] |  |  +- org.apache.maven.doxia:doxia-integration-tools:jar:1.11.1:compile
+[INFO] |  |  |  \- org.codehaus.plexus:plexus-i18n:jar:1.0-beta-10:compile
+[INFO] |  |  \- org.apache.maven.doxia:doxia-site-renderer:jar:1.11.1:compile
+[INFO] |  |     +- org.apache.maven.doxia:doxia-skin-model:jar:1.11.1:compile
+[INFO] |  |     +- org.apache.maven.doxia:doxia-module-xhtml:jar:1.11.1:compile
+[INFO] |  |     +- org.apache.maven.doxia:doxia-module-xhtml5:jar:1.11.1:compile
+[INFO] |  |     +- org.codehaus.plexus:plexus-velocity:jar:1.2:compile
+[INFO] |  |     \- org.apache.velocity:velocity-tools:jar:2.0:compile
+[INFO] |  |        +- commons-chain:commons-chain:jar:1.1:compile
+[INFO] |  |        +- dom4j:dom4j:jar:1.1:compile
+[INFO] |  |        \- oro:oro:jar:2.0.8:compile
+[INFO] |  +- org.codehaus.plexus:plexus-java:jar:1.1.1:compile
+[INFO] |  |  +- org.ow2.asm:asm:jar:9.2:compile
+[INFO] |  |  \- com.thoughtworks.qdox:qdox:jar:2.0.1:compile
+[INFO] |  \- org.codehaus.plexus:plexus-utils:jar:3.4.2:compile
+[INFO] +- com.expedia.gco.commons:gco-commons-settings-provider:jar:4.2.0:compile
+[INFO] |  \- com.fasterxml.jackson.dataformat:jackson-dataformat-properties:jar:2.13.4:compile
+[INFO] +- org.apache.poi:poi:jar:4.1.1:compile
+[INFO] |  +- commons-codec:commons-codec:jar:1.15:compile
+[INFO] |  \- org.apache.commons:commons-math3:jar:3.6.1:compile
+[INFO] +- org.apache.poi:poi-ooxml:jar:4.1.1:compile
+[INFO] |  +- org.apache.poi:poi-ooxml-schemas:jar:4.1.1:compile
+[INFO] |  |  \- org.apache.xmlbeans:xmlbeans:jar:3.1.0:compile
+[INFO] |  +- org.apache.commons:commons-compress:jar:1.19:compile
+[INFO] |  \- com.github.virtuald:curvesapi:jar:1.06:compile
+[INFO] +- org.apache.commons:commons-collections4:jar:4.4:compile
+[INFO] +- org.jacoco:org.jacoco.agent:jar:runtime:0.8.0:test
+[INFO] +- com.expedia:cpce-resource-manager-client:jar:1.13.1:compile
+[INFO] |  +- com.apollographql.apollo:apollo-runtime:jar:1.3.2:compile
+[INFO] |  |  +- com.apollographql.apollo:apollo-api:jar:1.3.2:compile
+[INFO] |  |  |  \- com.squareup.okio:okio:jar:1.15.0:compile
+[INFO] |  |  +- com.squareup.okhttp3:okhttp:jar:4.9.3:compile
+[INFO] |  |  \- com.nytimes.android:cache:jar:2.0.2:runtime
+[INFO] |  +- com.expedia.gco.commons:gco-commons-graphql-client:jar:3.3.0:compile
+[INFO] |  |  +- com.apollographql.apollo:apollo-rx2-support:jar:1.3.2:compile
+[INFO] |  |  |  \- io.reactivex.rxjava2:rxjava:jar:2.2.21:compile
+[INFO] |  |  |     \- org.reactivestreams:reactive-streams:jar:1.0.4:compile
+[INFO] |  |  \- com.apollographql.apollo:apollo-http-cache:jar:1.3.2:compile
+[INFO] |  +- org.jetbrains:annotations:jar:20.1.0:compile
+[INFO] |  +- javax.annotation:javax.annotation-api:jar:1.3.2:compile
+[INFO] |  +- com.github.ben-manes.caffeine:caffeine:jar:2.9.3:compile
+[INFO] |  +- org.slf4j:slf4j-simple:jar:1.7.36:compile
+[INFO] |  +- org.apache.tinkerpop:tinkergraph-gremlin:jar:3.4.7:compile
+[INFO] |  |  \- org.apache.tinkerpop:gremlin-core:jar:3.4.7:compile
+[INFO] |  |     +- org.apache.tinkerpop:gremlin-shaded:jar:3.4.7:compile
+[INFO] |  |     +- commons-configuration:commons-configuration:jar:1.10:compile
+[INFO] |  |     +- org.javatuples:javatuples:jar:1.2:compile
+[INFO] |  |     +- com.carrotsearch:hppc:jar:0.7.1:compile
+[INFO] |  |     +- com.jcabi:jcabi-manifests:jar:1.1:compile
+[INFO] |  |     |  \- com.jcabi:jcabi-log:jar:0.14:compile
+[INFO] |  |     +- com.squareup:javapoet:jar:1.8.0:compile
+[INFO] |  |     +- net.objecthunter:exp4j:jar:0.4.8:compile
+[INFO] |  |     \- org.slf4j:jcl-over-slf4j:jar:1.7.36:compile
+[INFO] |  +- org.springframework.retry:spring-retry:jar:1.3.4:compile
+[INFO] |  \- com.auth0:java-jwt:jar:4.0.0:compile
+[INFO] +- com.expedia.sfmc.template.parser:sfmc-template-parser-library:jar:1.4.4:compile
+[INFO] +- redis.clients:jedis:jar:2.10.2:compile
+[INFO] |  \- org.apache.commons:commons-pool2:jar:2.11.1:compile
+[INFO] +- com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.14.2:compile
+[INFO] |  +- org.codehaus.woodstox:stax2-api:jar:4.2.1:compile
+[INFO] |  \- com.fasterxml.woodstox:woodstox-core:jar:6.5.0:compile
+[INFO] +- com.fasterxml.jackson.core:jackson-annotations:jar:2.13.4:compile
+[INFO] +- com.fasterxml.jackson.core:jackson-core:jar:2.13.4:compile
+[INFO] +- org.jgrapht:jgrapht-core:jar:1.4.0:compile
+[INFO] |  \- org.jheaps:jheaps:jar:0.11:compile
+[INFO] \- com.evanlennick:retry4j:jar:0.15.0:compile
+[INFO] ------------------------------------------------------------------------
+I, [2023-03-21T11:23:47.266124 #1]  INFO -- : Track deployment progress in Splunk : https://splunk.test.egmonitoring.expedia.com//en-US/app/search/search?q=search%20index=app%20sourcetype=trinity-service*%20splunk_server_group=*%20request_id=87487a7f-781c-4dc9-ad20-fe03891fc1bb%20starttime=03/21/2023:11:23:47%20endtime=03/21/2023:13:23:47
+I, [2023-03-21T11:23:47.266268 #1]  INFO -- : Calling endpoint https://trinity-service-us-west-2.eglocal.exp-test.net/aws/ecs
+I, [2023-03-21T11:23:47.266324 #1]  INFO -- : Request ID : 87487a7f-781c-4dc9-ad20-fe03891fc1bb
+I, [2023-03-21T11:23:47.266378 #1]  INFO -- : Request body {"role":"vap-content-management-service","env":"test","region":"us-west-2","version":"95bbfea9704df88581da0026d7321bc5e6278d21","segment":"gcotechp","security_context":"test","flavor":"gcolab","request_id":"87487a7f-781c-4dc9-ad20-fe03891fc1bb"}
+E, [2023-03-21T11:24:15.443620 #1] ERROR -- : HTTP request failed: 500
+SPINNAKER_PROPERTY_TRINITY_RESPONSE_CODE=500
+E, [2023-03-21T11:24:15.443801 #1] ERROR -- : Execution of DeploymentCommand for ROLE: vap-content-management-service. VERSION: 95bbfea9704df88581da0026d7321bc5e6278d21 failed
+SPINNAKER_CONFIG_JSON={"status":"failure","error_code":27,"message":"Stack - vap-content-management-service-test-gcolab-95bbfea970 already exists. Please delete your stack before attempting to re-deploy","request_id":"87487a7f-781c-4dc9-ad20-fe03891fc1bb"}
+E, [2023-03-21T11:24:15.443822 #1] ERROR -- : RESPONSE: {"status":"failure","error_code":27,"message":"Stack - vap-content-management-service-test-gcolab-95bbfea970 already exists. Please delete your stack before attempting to re-deploy","request_id":"87487a7f-781c-4dc9-ad20-fe03891fc1bb"}
+I, [2023-03-21T11:24:15.444132 #1]  INFO -- : Application Splunk Logs : https://splunk.test.egmonitoring.expedia.com//en-US/app/search/search?q=search%20index=app%20sourcetype=vap-content-management-service*
+I, [2023-03-21T11:24:15.444179 #1]  INFO -- : ECS Service Startup Logs (stdout/err) : https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2#logStream:group=/aws/ecs/vap-content-management-service-gcolab/gcotechp-test_us-west-2_application_app-0001;prefix=95bbfea;streamFilter=typeLogStreamPrefix
+I, [2023-03-21T11:24:15.444204 #1]  INFO -- : ECS Service events log : https://us-west-2.console.aws.amazon.com/ecs/home?region=us-west-2#/clusters/gcotechp-test_us-west-2_application_app-0001/services/vap-content-management-service-gcolab/events

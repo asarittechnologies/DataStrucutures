@@ -1,0 +1,318 @@
+Mapper Id : 345dfb4e-6580-49e9-922c-65a2a74e9d95
+{
+  "cpce_business_segment_id": "8e16dc42-2b88-4568-84c4-9598e7dde57e",
+  "eg_partner_account_id": "79149a1a-4b24-4d3b-8b9a-be53422bbc02",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+
+Mapper Id:  e631cb98-3323-4b11-89f4-90403e14e50e
+{
+  "cpce_business_segment_id": "1c81363e-3cc6-4603-9a70-c173c37c41ce",
+  "eg_partner_account_id": "51531fd8-ef5d-4f3c-ba54-c1d277dbc9a1",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapper Id : "d8e53177-1b67-4e8a-98c4-290d9ef51bf7"
+{
+  "cpce_business_segment_id": "c876b478-f1ca-47e8-a163-adbe994244f9",
+  "eg_partner_account_id": "d7de3704-1a3c-4c75-b514-b5410797db99",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapper Id : 99e832b4-373f-4540-9fe1-29ece551f104
+{
+  "cpce_business_segment_id": "67e5d2e3-a436-4630-a929-7ba9ac2a89ea",
+  "eg_partner_account_id": "475bfee5-e62e-446e-84d2-b5431bc79315",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapper Id : 28153d1a-b479-4527-b474-d08d8ab4b31a
+{
+  "cpce_business_segment_id": "559b54b0-bfbe-4166-9ec5-f1335e220f33",
+  "eg_partner_account_id": "906780cb-ebc9-4a9a-a3d7-f07a5c0a7071",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapper Id :54c2663f-6ad7-498f-acdd-4af448bb566a
+{
+  "cpce_business_segment_id": "f80edab8-d605-48dd-b539-247ff94ec496",
+  "eg_partner_account_id": "98503d43-65b9-470c-8601-0f0ec9c7efef",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapper Id : 5cfbf8a1-2481-41a4-931b-33447a3e8c5a
+{
+  "cpce_business_segment_id": "05fb2cf2-cab6-42d4-823d-e706ed77a070",
+  "eg_partner_account_id": "799711a2-1503-495f-be0d-722c029d1196",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : ba1a71c0-bbcc-4c7b-9aff-fa5b0ec4507e
+{
+  "cpce_business_segment_id": "f942643b-11cd-44fb-aadf-3769833731a9",
+  "eg_partner_account_id": "de8165b0-42dc-4076-89dd-f2d93e10e8d8",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id :f9fad1e2-37a5-46e4-a788-761f9cc88a04
+{
+  "cpce_business_segment_id": "e8305e1d-ebb0-4bf0-b3e5-b3b0f87171b1",
+  "eg_partner_account_id": "4c1da166-67a7-4756-996a-30fc0a5131d3",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : d9105f44-5e63-40fe-878a-85cde57af579
+{
+  "cpce_business_segment_id": "09582e8e-1b7f-4c3c-9541-c8ec41845682",
+  "eg_partner_account_id": "711e4941-6df0-4ad0-9e79-8e6f8e2f4d92",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : 7d5e35d3-666a-44ec-a6da-c01a09339e92
+{
+  "cpce_business_segment_id": "0a9528c1-d10e-425c-87d4-7649b80f85a9",
+  "eg_partner_account_id": "100d57b9-9803-4ab5-8631-211a93885862",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id:  c0c6d693-fbe5-4b72-b40e-dd840edc2e5f
+{
+  "cpce_business_segment_id": "5f569cb5-8c57-4935-8502-720d0761016e",
+  "eg_partner_account_id": "dfee44eb-d8aa-4bfb-9ad5-56f851b27077",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: c77af539-3c5c-4ee1-9be6-67675c728b13
+{
+  "cpce_business_segment_id": "9c8724c3-d58e-4f44-95f0-aa9708f6f32f",
+  "eg_partner_account_id": "371798ad-7e8e-49ae-9052-eb12909ee888",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: bb6b9625-3a01-4273-8d7f-d7aaf3958f8e
+{
+  "cpce_business_segment_id": "38a8484d-b8b2-4e09-b63e-d2ffd8846c66",
+  "eg_partner_account_id": "c62abfcf-9175-4c74-ad99-d28792b33bbc",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : 55c3e2e1-df87-49d1-ae64-cf18923bbebf
+{
+  "cpce_business_segment_id": "3c5bfcc0-81c2-4917-b360-b0f9c1dffe1b",
+  "eg_partner_account_id": "aab26bda-98ae-4fbe-aa26-defca1c48503",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : ae1e3727-10a3-48d1-a11d-ec168b50d45a
+{
+  "cpce_business_segment_id": "94031139-b646-4e3e-a81b-54d48b0f63f2",
+  "eg_partner_account_id": "aec3596a-3a59-4cfe-88c4-f54b07d84132",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : 61f3a7cf-549f-4215-afe0-e799caf63685
+{
+  "cpce_business_segment_id": "a24982c5-d52b-4f19-a5c2-8046dfcd21c1",
+  "eg_partner_account_id": "87d88091-7cf1-425f-a717-7d87d9113f89",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : 1e8a1b37-00c0-4d6f-9455-20ddeee37162
+{
+  "cpce_business_segment_id": "66ec5f28-77c7-4fc5-a549-253096dad8fd",
+  "eg_partner_account_id": "530ee965-1201-4e22-9ed3-d0c85f81bf78",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : 11c1b098-a892-49c8-a82f-5d30eb9e38d9
+{
+  "cpce_business_segment_id": "15c94318-c4d9-49d1-8e96-d58e3e369598",
+  "eg_partner_account_id": "2e072e44-029d-4271-aa00-50b2f6fc725c",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 29992811-8761-4cfd-9add-76da6f2a42db
+{
+  "cpce_business_segment_id": "d9b2762a-0acf-415c-a03e-8b576c3cc55a",
+  "eg_partner_account_id": "d2acd3eb-ba2a-40ce-a1c7-5ac0163e04d6",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 9f1ded20-0789-444b-aa5c-09cc2610752d
+{
+  "cpce_business_segment_id": "86c23b1a-d04a-48db-8475-e5026fd448a7",
+  "eg_partner_account_id": "71f8429f-f4d2-4b54-84b6-8dbbc792715f",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id:da45591e-9d8d-49ba-b5a2-f8ce95649a3f
+{
+  "cpce_business_segment_id": "476cecf6-58c2-4526-b408-e1a80de7ce6f",
+  "eg_partner_account_id": "a00b6f60-de7f-4e7b-8d13-f4fb5476a926",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : e536bf03-74e7-4c15-9ec8-a36e44dc503c
+{
+  "cpce_business_segment_id": "8fccea66-a2c0-4869-a6bb-7ee4603afa12",
+  "eg_partner_account_id": "5c3669b3-7d64-41cd-96b2-38436f227b3b",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id b54eb809-5fb3-4860-b26b-66f3b10cc207
+{
+  "cpce_business_segment_id": "3714cb8a-c6d0-4364-8ebf-3f439cd466c2",
+  "eg_partner_account_id": "70b7de7b-19ae-453c-9261-5d1458528560",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : 0572339a-58f1-4453-8847-83c8b185c1aa
+{
+  "cpce_business_segment_id": "59b09dec-6c4d-4fe1-b193-65bc1a64b4d7",
+  "eg_partner_account_id": "f3274721-acc3-4461-9436-f5265ceda90d",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 3fb26d77-45ed-4604-91c8-0b41d223675b
+{
+  "cpce_business_segment_id": "a02e23de-961f-42fa-8481-1133d798ec6c",
+  "eg_partner_account_id": "d2498969-e71b-4ba2-a9cc-02729fb42b8d",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id  :fdd4dafc-ce35-44dc-ad66-df520f623cb5
+{
+  "cpce_business_segment_id": "f43d3fb1-053b-4137-87eb-518731aabdc4",
+  "eg_partner_account_id": "6fd50baa-a6a1-43cb-9deb-ac41cfd6427b",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 8044da8c-7952-488a-a475-19c09c630942
+{
+  "cpce_business_segment_id": "72bed8e5-7061-4020-91b4-a389c4cea93f",
+  "eg_partner_account_id": "932063de-5406-493e-a3ed-662f6864e05e",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 25cef733-b41b-40b3-bae3-6c43547198ed
+{
+  "cpce_business_segment_id": "59577201-0731-49ef-a5be-19cd88a03354",
+  "eg_partner_account_id": "10ecc058-18ed-4750-9bb0-fdc55dd8b288",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 58786753-6026-4b14-ad80-ce80798fa235
+{
+  "cpce_business_segment_id": "09a9e199-f5a3-4e3e-adb7-11a94b99e7f1",
+  "eg_partner_account_id": "3e77b239-a62a-42eb-b245-4ca8d816b394",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 9e4d9c4f-d8fe-4fb6-9d8e-6d14d4d7a8f8
+{
+  "cpce_business_segment_id": "234969d4-5b03-448a-82e5-d8db598a88ab",
+  "eg_partner_account_id": "df4ca7ec-28b6-47d0-8688-f5062dfa5fd5",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 386bfc68-2066-4c8f-8062-8d58bd4b3175
+{
+  "cpce_business_segment_id": "0563886e-ed4c-454a-9f51-2d4c3a8f13d9",
+  "eg_partner_account_id": "a541dca9-fbb7-4b9c-b904-c0c2d88c0cf1",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 2ccf231f-890a-4852-9182-b0bba66ef124
+{
+  "cpce_business_segment_id": "4d0cd8eb-a975-4543-a4c1-d6b7adcaeda9",
+  "eg_partner_account_id": "84299b73-9569-470a-8811-91c2094756d8",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: d6c07665-cd1f-49f3-b75a-89d8473e7d4f
+{
+  "cpce_business_segment_id": "f138c79d-123b-47c8-bf0e-8c626a4348fe",
+  "eg_partner_account_id": "9976b81e-ef20-4b68-ab9a-33cf6d502723",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 696b169f-2e2a-489c-a4f1-78bad2a0c9a3
+{
+  "cpce_business_segment_id": "ee628f79-5e90-4c96-9c8f-8ff0dd88dadd",
+  "eg_partner_account_id": "81bf69a5-d3e5-4255-a913-22fd2a0dc96c",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 808bfa08-5ecb-4b44-af37-6819d3752c02
+{
+  "cpce_business_segment_id": "c9b87c14-1c8f-4084-9361-e79aa71b3f42",
+  "eg_partner_account_id": "314ab4dc-3199-4728-9632-62ad0d5711d3",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 0ee081f5-0005-43e9-b779-641fa5f775bb
+{
+  "cpce_business_segment_id": "069b1616-b18f-45a5-9b09-a50586999f8e",
+  "eg_partner_account_id": "1303fdac-5d81-43ae-b05c-62dcfe782830",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 1da0d9f5-80a7-423e-997a-b4e169f52c05
+{
+  "cpce_business_segment_id": "a4001ec8-5a1a-410b-b7b5-d07ccffb4af9",
+  "eg_partner_account_id": "bb709000-401c-4bab-af39-df769f032e8b",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: f004ae1b-21b4-4e1c-b0ec-d7d49d7374fc
+{
+  "cpce_business_segment_id": "74ed9655-deff-4540-8bf5-659b65447d61",
+  "eg_partner_account_id": "3c439ccb-2734-40c4-9b56-9b0923cd557b",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 9ba41429-bbfd-4626-b084-eceaea0758c1
+{
+  "cpce_business_segment_id": "ab5e5828-d9aa-4426-8fec-fa09bbf1304c",
+  "eg_partner_account_id": "a059b196-add2-454b-94f9-bb11976e0281",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 4fcbefa0-ae18-4b9d-97bc-2fae434c8c2a
+{
+  "cpce_business_segment_id": "39ee0730-0993-42ed-82b7-8b53868189d6",
+  "eg_partner_account_id": "71633ce4-fe57-4b1a-8bff-5079d658cb94",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 73112098-ac2d-4290-93c0-36ff388980a4
+{
+  "cpce_business_segment_id": "670ed0b9-149b-4e5e-a222-8edc5c3aa129",
+  "eg_partner_account_id": "9e290cb7-258b-45ef-bc96-912948c582cd",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 483dae01-a99e-42dc-adbb-a51ce62b17a2
+{
+  "cpce_business_segment_id": "66030992-9787-4628-b8d6-96f64fbe157f",
+  "eg_partner_account_id": "cca51bbd-ebf4-4ba9-ac7a-4c1cda01c82a",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id: 68810bed-eefd-4dd8-9e1a-7b180b55e9eb
+{
+  "cpce_business_segment_id": "177d977e-2fa6-4bc5-b3f5-afa1831acf4c",
+  "eg_partner_account_id": "c7fe049c-ba31-48e9-9036-935f629a9dd7",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+Mapping Id : ca32cc34-284c-4a19-a493-ed81598bc1c9
+{
+  "cpce_business_segment_id": "c8a4b3d9-b127-4254-a7be-b21eb64ebb42",
+  "eg_partner_account_id": "84f6d926-9253-4ea0-972e-32be7ca24e59",
+  "cpce_partner_id": "0bfde47f-a8f5-44af-90ee-652b583dd90c",
+  "eg_partner_id": "3ccdcaee-e070-4c21-84f2-c81b46db2524"
+}
+
+---

@@ -1,0 +1,4893 @@
+[
+  {
+    "metadata": {
+      "id": "e71edb10-d125-437b-b8f0-5f705c1bf5a2",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-18T10:16:15.875Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2023-02-18T10:16:15.875Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/e71edb10-d125-437b-b8f0-5f705c1bf5a2?version=1.0"
+    },
+    "id": "e71edb10-d125-437b-b8f0-5f705c1bf5a2",
+    "business_segment_id": "7683906397",
+    "business_segment_name": "prabgupta Sandbox Business Segment",
+    "languages": [
+      {
+        "brand_enabled": false,
+        "gco_enabled": false,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "c1b3493e-265e-4977-beef-e5a4b8bc8ce8",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.1",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:29:23.326Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:34:35.912Z",
+        "updatedBy": "SERVICE : 4qirgt3avl1tan9rsner752tb8"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c1b3493e-265e-4977-beef-e5a4b8bc8ce8?version=1.1",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c1b3493e-265e-4977-beef-e5a4b8bc8ce8?version=1.0"
+    },
+    "id": "c1b3493e-265e-4977-beef-e5a4b8bc8ce8",
+    "altId": "VR_APAC_Australia",
+    "business_segment_id": "3576015720",
+    "business_segment_name": "VR_APAC_Australia",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "1c58f5c5-a08f-4c49-a91b-ed5f17679c52",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:29:33.404Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:29:33.404Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/1c58f5c5-a08f-4c49-a91b-ed5f17679c52?version=1.0"
+    },
+    "id": "1c58f5c5-a08f-4c49-a91b-ed5f17679c52",
+    "business_segment_id": "8142687350",
+    "business_segment_name": "VR_APAC_NewZealand",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_APAC_NewZealand"
+  },
+  {
+    "metadata": {
+      "id": "8c61a506-c840-4932-ba71-d05d6009acdd",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:29:12.065Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:29:12.065Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/8c61a506-c840-4932-ba71-d05d6009acdd?version=1.0"
+    },
+    "id": "8c61a506-c840-4932-ba71-d05d6009acdd",
+    "business_segment_id": "7287936845",
+    "business_segment_name": "VR_APAC_Singapore",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_APAC_Singapore"
+  },
+  {
+    "metadata": {
+      "id": "ef533f1a-d7f7-45bd-a602-2f0fa27e6c24",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:29:02.099Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:29:02.099Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/ef533f1a-d7f7-45bd-a602-2f0fa27e6c24?version=1.0"
+    },
+    "id": "ef533f1a-d7f7-45bd-a602-2f0fa27e6c24",
+    "business_segment_id": "4045382572",
+    "business_segment_name": "VR_EMEA_Sweden",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Sweden"
+  },
+  {
+    "metadata": {
+      "id": "c43183bd-6544-4846-9d7d-afb13540c4ca",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:28:52.837Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:28:52.837Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c43183bd-6544-4846-9d7d-afb13540c4ca?version=1.0"
+    },
+    "id": "c43183bd-6544-4846-9d7d-afb13540c4ca",
+    "business_segment_id": "6293494753",
+    "business_segment_name": "VR_EMEA_Portugal",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Portugal"
+  },
+  {
+    "metadata": {
+      "id": "fd8c0231-267e-4d9e-adb3-c73e7526b72f",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:28:45.703Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:28:45.703Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/fd8c0231-267e-4d9e-adb3-c73e7526b72f?version=1.0"
+    },
+    "id": "fd8c0231-267e-4d9e-adb3-c73e7526b72f",
+    "business_segment_id": "1935898026",
+    "business_segment_name": "VR_EMEA_Poland",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Poland"
+  },
+  {
+    "metadata": {
+      "id": "35922acd-a526-4c69-af3a-3b6cefbce4fd",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:28:38.185Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:28:38.185Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/35922acd-a526-4c69-af3a-3b6cefbce4fd?version=1.0"
+    },
+    "id": "35922acd-a526-4c69-af3a-3b6cefbce4fd",
+    "business_segment_id": "6234118833",
+    "business_segment_name": "VR_EMEA_Norway",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Norway"
+  },
+  {
+    "metadata": {
+      "id": "70671e86-3ba5-4bcd-b8c3-ec299c5840cb",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:28:27.652Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:28:27.652Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/70671e86-3ba5-4bcd-b8c3-ec299c5840cb?version=1.0"
+    },
+    "id": "70671e86-3ba5-4bcd-b8c3-ec299c5840cb",
+    "business_segment_id": "6749903989",
+    "business_segment_name": "VR_AMER_Mexico",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_AMER_Mexico"
+  },
+  {
+    "metadata": {
+      "id": "7cee5960-d13b-47b1-9716-3b9cc99433b8",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:28:20.608Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:28:20.608Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7cee5960-d13b-47b1-9716-3b9cc99433b8?version=1.0"
+    },
+    "id": "7cee5960-d13b-47b1-9716-3b9cc99433b8",
+    "business_segment_id": "5570879103",
+    "business_segment_name": "VR_APAC_Japan",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_APAC_Japan"
+  },
+  {
+    "metadata": {
+      "id": "0e665915-3ab8-4384-863a-9496942415c1",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:28:12.350Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:28:12.350Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/0e665915-3ab8-4384-863a-9496942415c1?version=1.0"
+    },
+    "id": "0e665915-3ab8-4384-863a-9496942415c1",
+    "business_segment_id": "4237663664",
+    "business_segment_name": "VR_EMEA_Italy",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Italy"
+  },
+  {
+    "metadata": {
+      "id": "eba0a682-6217-4786-b04f-ad60d4d1c3a1",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:28:04.192Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:28:04.192Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/eba0a682-6217-4786-b04f-ad60d4d1c3a1?version=1.0"
+    },
+    "id": "eba0a682-6217-4786-b04f-ad60d4d1c3a1",
+    "business_segment_id": "2597398389",
+    "business_segment_name": "VR_EMEA_Netherlands",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Netherlands"
+  },
+  {
+    "metadata": {
+      "id": "5c4d1985-bf6e-4408-b292-d0ce2fb62135",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:27:55.982Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:27:55.982Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/5c4d1985-bf6e-4408-b292-d0ce2fb62135?version=1.0"
+    },
+    "id": "5c4d1985-bf6e-4408-b292-d0ce2fb62135",
+    "business_segment_id": "3673872844",
+    "business_segment_name": "VR_EMEA_Finland",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Finland"
+  },
+  {
+    "metadata": {
+      "id": "ca26f331-8fcf-4279-b49b-b70a62667748",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:27:46.327Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:27:46.327Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/ca26f331-8fcf-4279-b49b-b70a62667748?version=1.0"
+    },
+    "id": "ca26f331-8fcf-4279-b49b-b70a62667748",
+    "business_segment_id": "9168716301",
+    "business_segment_name": "VR_EMEA_Spain",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Spain"
+  },
+  {
+    "metadata": {
+      "id": "37591a5d-71b5-4297-87d2-c9e7f2b9a7fb",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:27:36.095Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:27:36.095Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/37591a5d-71b5-4297-87d2-c9e7f2b9a7fb?version=1.0"
+    },
+    "id": "37591a5d-71b5-4297-87d2-c9e7f2b9a7fb",
+    "business_segment_id": "3735940485",
+    "business_segment_name": "VR_EMEA_Denmark",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Denmark"
+  },
+  {
+    "metadata": {
+      "id": "a31e219e-b439-46d7-9294-57b02effd632",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:27:23.604Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:27:23.604Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a31e219e-b439-46d7-9294-57b02effd632?version=1.0"
+    },
+    "id": "a31e219e-b439-46d7-9294-57b02effd632",
+    "business_segment_id": "5802827763",
+    "business_segment_name": "VR_AMER_Canada",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_AMER_Canada"
+  },
+  {
+    "metadata": {
+      "id": "585a0abb-7c6f-431b-8cfa-1b534d16333f",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:27:10.707Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:27:10.707Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/585a0abb-7c6f-431b-8cfa-1b534d16333f?version=1.0"
+    },
+    "id": "585a0abb-7c6f-431b-8cfa-1b534d16333f",
+    "business_segment_id": "7342949878",
+    "business_segment_name": "VR_AMER_Brazil",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_AMER_Brazil"
+  },
+  {
+    "metadata": {
+      "id": "8807c726-2565-4d10-bc16-b18f41bb899a",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:26:58.244Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:26:58.244Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/8807c726-2565-4d10-bc16-b18f41bb899a?version=1.0"
+    },
+    "id": "8807c726-2565-4d10-bc16-b18f41bb899a",
+    "business_segment_id": "7334386147",
+    "business_segment_name": "VR_EMEA_Austria",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Austria"
+  },
+  {
+    "metadata": {
+      "id": "40b8e344-5720-4104-9369-7f5bf6338246",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:26:46.894Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:26:46.894Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/40b8e344-5720-4104-9369-7f5bf6338246?version=1.0"
+    },
+    "id": "40b8e344-5720-4104-9369-7f5bf6338246",
+    "business_segment_id": "9484438703",
+    "business_segment_name": "VR_EMEA_UK",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_UK"
+  },
+  {
+    "metadata": {
+      "id": "1fa8fff3-d6b4-4771-b2d1-be53cc127429",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2023-02-10T16:26:29.191Z",
+        "createdBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c",
+        "updatedOn": "2023-02-10T16:26:29.191Z",
+        "updatedBy": "USER : 5fcec766-d8b9-4bc4-a10e-f410a2da5b1c"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/1fa8fff3-d6b4-4771-b2d1-be53cc127429?version=1.0"
+    },
+    "id": "1fa8fff3-d6b4-4771-b2d1-be53cc127429",
+    "business_segment_id": "4194849010",
+    "business_segment_name": "VR_EMEA_Greece",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "VR_EMEA_Greece"
+  },
+  {
+    "metadata": {
+      "id": "64250381-c98e-498f-9130-87bc6bf23aab",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-11-30T07:29:32.727Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2022-11-30T07:29:32.727Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/64250381-c98e-498f-9130-87bc6bf23aab?version=1.0"
+    },
+    "id": "64250381-c98e-498f-9130-87bc6bf23aab",
+    "business_segment_id": "6891575854",
+    "business_segment_name": "abhagupta Sandbox Business Segment",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "a617d51f-d7b0-4a4b-ba1d-a6d5f6c3015e",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-10-31T06:19:09.132Z",
+        "createdBy": "SERVICE : 7ael5kqpr5kaacoik45610n81o",
+        "updatedOn": "2022-10-31T06:19:09.132Z",
+        "updatedBy": "SERVICE : 7ael5kqpr5kaacoik45610n81o"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a617d51f-d7b0-4a4b-ba1d-a6d5f6c3015e?version=1.0"
+    },
+    "id": "a617d51f-d7b0-4a4b-ba1d-a6d5f6c3015e",
+    "altId": "VrboT2D",
+    "business_segment_id": "09fe6e51-df55-4234-8077-4cbd319c09b3",
+    "business_segment_name": "Vrbo t2d",
+    "languages_resource_uris": [
+      "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d"
+    ],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": false,
+        "gco_enabled": false,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "8748215b-0601-4098-ae70-2bad3d0feac2",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.1",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-10-05T16:08:14.400Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-10-05T16:12:23.964Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/8748215b-0601-4098-ae70-2bad3d0feac2?version=1.1",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/8748215b-0601-4098-ae70-2bad3d0feac2?version=1.0"
+    },
+    "id": "8748215b-0601-4098-ae70-2bad3d0feac2",
+    "business_segment_id": "6012836433",
+    "business_segment_name": "Vrbo-Twilio-Test",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "",
+      "agent_avatar_url": "",
+      "branding_images_url": "",
+      "web_bookings_url": "",
+      "loyalty_enabled": false,
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Twilio_Test"
+  },
+  {
+    "metadata": {
+      "id": "baaa6bd5-9609-458e-b23d-58e5072e7ad0",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.24",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-09-21T09:47:41.355Z",
+        "createdBy": "SERVICE : 2ivj6ncetf3lc5d2ic1himekpo",
+        "updatedOn": "2022-09-20T20:59:03.831Z",
+        "updatedBy": "USER : 4ec713cf-bca1-45ac-8bf6-a4564bb43975"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/baaa6bd5-9609-458e-b23d-58e5072e7ad0?version=1.24",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/baaa6bd5-9609-458e-b23d-58e5072e7ad0?version=1.23"
+    },
+    "id": "baaa6bd5-9609-458e-b23d-58e5072e7ad0",
+    "business_segment_id": "431459",
+    "business_segment_name": "VRBO Business Segment",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO1",
+    "eapid": "VRBO1",
+    "site_id": "VRBO1",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "nb_NO",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [
+      "33660-431459-c3-1006",
+      "33660-431459-c3-1007",
+      "33660-431459-c3-1008",
+      "33660-431459-c3-1009",
+      "33660-431459-c3-1010",
+      "33660-431459-c3-1014",
+      "33660-431459-c3-1015",
+      "33660-431459-c3-1016",
+      "33660-431459-c3-1040",
+      "33660-431459-c3-1045",
+      "33660-431459-c3-1055",
+      "33660-431459-c3-1091",
+      "33660-431459-c3-1092",
+      "33660-431459-c3-1096",
+      "33660-431459-c3-1097",
+      "33660-431459-voyager_next-1248"
+    ],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/baaa6bd5-9609-458e-b23d-58e5072e7ad0/partnersettings/e1598c7d-f3e0-4d6a-95dd-9421cced035a",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "57ba30c5-c41c-4128-a307-aaf411e6ff90",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T19:37:51.077Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T19:37:51.077Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/57ba30c5-c41c-4128-a307-aaf411e6ff90?version=1.0"
+    },
+    "id": "57ba30c5-c41c-4128-a307-aaf411e6ff90",
+    "business_segment_id": "1504795923",
+    "business_segment_name": "Vrbo-Expedia",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Expedia"
+  },
+  {
+    "metadata": {
+      "id": "4cc6c6f1-4659-469e-9321-d2d1c97a3400",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T19:37:33.986Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T19:37:33.986Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/4cc6c6f1-4659-469e-9321-d2d1c97a3400?version=1.0"
+    },
+    "id": "4cc6c6f1-4659-469e-9321-d2d1c97a3400",
+    "business_segment_id": "7058926132",
+    "business_segment_name": "Vrbo-VacationRentals",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_VacationRentals"
+  },
+  {
+    "metadata": {
+      "id": "7a6c65b0-bf9a-4de1-a3d2-52a1f62acbe4",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.1",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T18:39:01.646Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T19:37:00.530Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7a6c65b0-bf9a-4de1-a3d2-52a1f62acbe4?version=1.1",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7a6c65b0-bf9a-4de1-a3d2-52a1f62acbe4?version=1.0"
+    },
+    "id": "7a6c65b0-bf9a-4de1-a3d2-52a1f62acbe4",
+    "business_segment_id": "8543998403",
+    "business_segment_name": "Vrbo-Stayz",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_AU",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "",
+      "agent_avatar_url": "",
+      "branding_images_url": "",
+      "web_bookings_url": "",
+      "loyalty_enabled": false,
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Stayz"
+  },
+  {
+    "metadata": {
+      "id": "083f8c01-b899-4bd6-a83f-f92fbd936909",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T19:36:14.327Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T19:36:14.327Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/083f8c01-b899-4bd6-a83f-f92fbd936909?version=1.0"
+    },
+    "id": "083f8c01-b899-4bd6-a83f-f92fbd936909",
+    "business_segment_id": "2293280812",
+    "business_segment_name": "Vrbo-Bookabach",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_NZ",
+        "language_id_resource_uri": "/languages/102dd2fd-3711-4034-bcc3-ebd05cdba33a",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Bookabach"
+  },
+  {
+    "metadata": {
+      "id": "ccd537ed-b6a3-4a17-ab28-1fa494a1133c",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T19:35:39.038Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T19:35:39.038Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/ccd537ed-b6a3-4a17-ab28-1fa494a1133c?version=1.0"
+    },
+    "id": "ccd537ed-b6a3-4a17-ab28-1fa494a1133c",
+    "business_segment_id": "7063321187",
+    "business_segment_name": "Vrbo-Homelidays",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "fr_FR",
+        "language_id_resource_uri": "/languages/4cf6cffc-3895-4a3a-a252-05ab91353a0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Homelidays"
+  },
+  {
+    "metadata": {
+      "id": "b68a8815-3332-4a94-aae8-1555f3d6d1f4",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T19:35:03.321Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T19:35:03.321Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/b68a8815-3332-4a94-aae8-1555f3d6d1f4?version=1.0"
+    },
+    "id": "b68a8815-3332-4a94-aae8-1555f3d6d1f4",
+    "business_segment_id": "9160095366",
+    "business_segment_name": "Vrbo-Primary",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Primary"
+  },
+  {
+    "metadata": {
+      "id": "cb23f1b6-cbf6-4c0c-8b06-691a0508ae57",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T18:38:20.816Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T18:38:20.816Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/cb23f1b6-cbf6-4c0c-8b06-691a0508ae57?version=1.0"
+    },
+    "id": "cb23f1b6-cbf6-4c0c-8b06-691a0508ae57",
+    "business_segment_id": "4315247809",
+    "business_segment_name": "Vrbo-HomeAway",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_HomeAway"
+  },
+  {
+    "metadata": {
+      "id": "5d8983d2-b7d4-4ac4-a8f2-244d9749fa76",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T18:35:16.948Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T18:35:16.948Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/5d8983d2-b7d4-4ac4-a8f2-244d9749fa76?version=1.0"
+    },
+    "id": "5d8983d2-b7d4-4ac4-a8f2-244d9749fa76",
+    "business_segment_id": "8812238262",
+    "business_segment_name": "Vrbo-Fewo-direkt",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "de_DE",
+        "language_id_resource_uri": "/languages/ad8fd7f5-01b4-4f5e-bed0-6909c8cd67a2",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Fewo_direkt"
+  },
+  {
+    "metadata": {
+      "id": "c5051cbf-4091-48ae-a446-ed851d052c8a",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-09-15T18:34:05.407Z",
+        "createdBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f",
+        "updatedOn": "2022-09-15T18:34:05.407Z",
+        "updatedBy": "USER : 95c5f937-22ea-4209-b4fe-7a741e0b960f"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c5051cbf-4091-48ae-a446-ed851d052c8a?version=1.0"
+    },
+    "id": "c5051cbf-4091-48ae-a446-ed851d052c8a",
+    "business_segment_id": "9795956799",
+    "business_segment_name": "Vrbo-Abritel",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "fr_FR",
+        "language_id_resource_uri": "/languages/4cf6cffc-3895-4a3a-a252-05ab91353a0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Vrbo_Abritel"
+  },
+  {
+    "metadata": {
+      "id": "65d13b33-ceec-4b03-9d56-fcc07b5d39ec",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-04-06T09:20:59.770Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2022-04-06T09:20:59.770Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/65d13b33-ceec-4b03-9d56-fcc07b5d39ec?version=1.0"
+    },
+    "id": "65d13b33-ceec-4b03-9d56-fcc07b5d39ec",
+    "business_segment_id": "449607",
+    "business_segment_name": "pavniaggarwal Sandbox Business Segment",
+    "languages": [
+      {
+        "brand_enabled": false,
+        "gco_enabled": false,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "965cd83c-c139-4cd1-ba70-15b283d270fd",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-04-05T07:03:30.073Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2022-04-05T07:03:30.073Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/965cd83c-c139-4cd1-ba70-15b283d270fd?version=1.0"
+    },
+    "id": "965cd83c-c139-4cd1-ba70-15b283d270fd",
+    "business_segment_id": "660322",
+    "business_segment_name": "pavaggarwal Sandbox Business Segment",
+    "languages": [
+      {
+        "brand_enabled": false,
+        "gco_enabled": false,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "d64840d5-1345-4460-8300-55353eee08f6",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-03-22T17:43:23.565Z",
+        "createdBy": "USER : 2a23f9fe-2e6a-4012-8278-1d0c73356475",
+        "updatedOn": "2022-03-22T17:43:23.565Z",
+        "updatedBy": "USER : 2a23f9fe-2e6a-4012-8278-1d0c73356475"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d64840d5-1345-4460-8300-55353eee08f6?version=1.0"
+    },
+    "id": "d64840d5-1345-4460-8300-55353eee08f6",
+    "business_segment_id": "403270",
+    "business_segment_name": "VR_Operations_APAC",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_GB",
+        "language_id_resource_uri": "/languages/886564d2-acc3-4dcf-ab1c-534b5edfff71",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "fr_FR",
+        "language_id_resource_uri": "/languages/4cf6cffc-3895-4a3a-a252-05ab91353a0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_CA",
+        "language_id_resource_uri": "/languages/b766129e-8e6a-428e-ad4b-84db222513d4",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "de_DE",
+        "language_id_resource_uri": "/languages/ad8fd7f5-01b4-4f5e-bed0-6909c8cd67a2",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ja_JP",
+        "language_id_resource_uri": "/languages/ceba07a0-1788-4878-be50-9f2dcc856ab9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_CN",
+        "language_id_resource_uri": "/languages/5aa10b8b-41cf-4bb0-8868-2b60a2915d78",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_ES",
+        "language_id_resource_uri": "/languages/0b483738-d8df-46b6-a8a7-cebc77eb34b3",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_MX",
+        "language_id_resource_uri": "/languages/1cafdd51-c1fb-4aaf-b1b0-49f740f968d0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_IN",
+        "language_id_resource_uri": "/languages/f2cce3d1-026c-485d-a208-d833959705fb",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "da_DK",
+        "language_id_resource_uri": "/languages/0f429850-da75-424e-9752-74b221ec3c22",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nl_NL",
+        "language_id_resource_uri": "/languages/e62cd8f8-f74d-4eb9-98e6-a2cde3f7eb72",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "is_IS",
+        "language_id_resource_uri": "/languages/5e7ea147-d1ed-4532-bad3-4526c490b190",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "it_IT",
+        "language_id_resource_uri": "/languages/e09a9e58-8316-49c9-b6eb-574d9a172464",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ko_KR",
+        "language_id_resource_uri": "/languages/7833f648-a196-4b3e-aa42-be91f13b8ef0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nb_NO",
+        "language_id_resource_uri": "/languages/2017df03-b8c6-446f-bf69-5592b21e92a4",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pl_PL",
+        "language_id_resource_uri": "/languages/d03e9573-f53c-4a90-b0b0-551977fa33da",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_BR",
+        "language_id_resource_uri": "/languages/2041bd5d-07f7-4b25-a387-48cf1393f2f0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_PT",
+        "language_id_resource_uri": "/languages/5423dee9-4f0d-4c9e-84be-b0c9af0b4a7a",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ru_RU",
+        "language_id_resource_uri": "/languages/6840df8e-aa80-4e83-8581-4c2c457c6fe2",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "sv_SE",
+        "language_id_resource_uri": "/languages/7889cae5-5b09-4d0a-97e6-3ac7da02684e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "tr_TR",
+        "language_id_resource_uri": "/languages/33028519-7a42-45de-88f0-743db1f75928",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_TW",
+        "language_id_resource_uri": "/languages/f1081e19-3650-46f5-8330-ba2f622f5e03",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_HK",
+        "language_id_resource_uri": "/languages/60242b62-c987-420e-aff4-588fa064786f",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "hr_HR",
+        "language_id_resource_uri": "/languages/f0ba2ce4-c9d8-4f45-8bfc-afcd486a3e9c",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "cs_CZ",
+        "language_id_resource_uri": "/languages/6eb66f1c-3d1d-40cf-9636-348501379879",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fi_FI",
+        "language_id_resource_uri": "/languages/991f65ac-4b79-4477-810f-58ff75c5385f",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "el_GR",
+        "language_id_resource_uri": "/languages/941d0157-7487-4de5-8124-ee96e545a656",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "he_IL",
+        "language_id_resource_uri": "/languages/5aac4532-37f4-44af-8995-8e55ab4eda0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "id_ID",
+        "language_id_resource_uri": "/languages/f3cb13a7-5062-4e2e-ad72-32dfd91dcdc7",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ms_MY",
+        "language_id_resource_uri": "/languages/5dc0ec88-734d-446d-a4b1-1763cae90516",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "th_TH",
+        "language_id_resource_uri": "/languages/8effa6ef-8070-40cf-a644-3582db8d06f9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "vi_VN",
+        "language_id_resource_uri": "/languages/c4244415-394d-4e4a-b636-b071433dcc23",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Operations_APAC"
+  },
+  {
+    "metadata": {
+      "id": "2a24f834-40d9-4536-89e6-df1ca66ad1a7",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-03-22T17:43:05.454Z",
+        "createdBy": "USER : 2a23f9fe-2e6a-4012-8278-1d0c73356475",
+        "updatedOn": "2022-03-22T17:43:05.454Z",
+        "updatedBy": "USER : 2a23f9fe-2e6a-4012-8278-1d0c73356475"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/2a24f834-40d9-4536-89e6-df1ca66ad1a7?version=1.0"
+    },
+    "id": "2a24f834-40d9-4536-89e6-df1ca66ad1a7",
+    "business_segment_id": "240225",
+    "business_segment_name": "VR_Sales_DirectDial_EMEA",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_GB",
+        "language_id_resource_uri": "/languages/886564d2-acc3-4dcf-ab1c-534b5edfff71",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "fr_FR",
+        "language_id_resource_uri": "/languages/4cf6cffc-3895-4a3a-a252-05ab91353a0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_CA",
+        "language_id_resource_uri": "/languages/b766129e-8e6a-428e-ad4b-84db222513d4",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "de_DE",
+        "language_id_resource_uri": "/languages/ad8fd7f5-01b4-4f5e-bed0-6909c8cd67a2",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ja_JP",
+        "language_id_resource_uri": "/languages/ceba07a0-1788-4878-be50-9f2dcc856ab9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_CN",
+        "language_id_resource_uri": "/languages/5aa10b8b-41cf-4bb0-8868-2b60a2915d78",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_ES",
+        "language_id_resource_uri": "/languages/0b483738-d8df-46b6-a8a7-cebc77eb34b3",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_MX",
+        "language_id_resource_uri": "/languages/1cafdd51-c1fb-4aaf-b1b0-49f740f968d0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_IN",
+        "language_id_resource_uri": "/languages/f2cce3d1-026c-485d-a208-d833959705fb",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "da_DK",
+        "language_id_resource_uri": "/languages/0f429850-da75-424e-9752-74b221ec3c22",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nl_NL",
+        "language_id_resource_uri": "/languages/e62cd8f8-f74d-4eb9-98e6-a2cde3f7eb72",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "is_IS",
+        "language_id_resource_uri": "/languages/5e7ea147-d1ed-4532-bad3-4526c490b190",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "it_IT",
+        "language_id_resource_uri": "/languages/e09a9e58-8316-49c9-b6eb-574d9a172464",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ko_KR",
+        "language_id_resource_uri": "/languages/7833f648-a196-4b3e-aa42-be91f13b8ef0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nb_NO",
+        "language_id_resource_uri": "/languages/2017df03-b8c6-446f-bf69-5592b21e92a4",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pl_PL",
+        "language_id_resource_uri": "/languages/d03e9573-f53c-4a90-b0b0-551977fa33da",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_BR",
+        "language_id_resource_uri": "/languages/2041bd5d-07f7-4b25-a387-48cf1393f2f0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_PT",
+        "language_id_resource_uri": "/languages/5423dee9-4f0d-4c9e-84be-b0c9af0b4a7a",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ru_RU",
+        "language_id_resource_uri": "/languages/6840df8e-aa80-4e83-8581-4c2c457c6fe2",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "sv_SE",
+        "language_id_resource_uri": "/languages/7889cae5-5b09-4d0a-97e6-3ac7da02684e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "tr_TR",
+        "language_id_resource_uri": "/languages/33028519-7a42-45de-88f0-743db1f75928",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_TW",
+        "language_id_resource_uri": "/languages/f1081e19-3650-46f5-8330-ba2f622f5e03",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_HK",
+        "language_id_resource_uri": "/languages/60242b62-c987-420e-aff4-588fa064786f",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "hr_HR",
+        "language_id_resource_uri": "/languages/f0ba2ce4-c9d8-4f45-8bfc-afcd486a3e9c",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "cs_CZ",
+        "language_id_resource_uri": "/languages/6eb66f1c-3d1d-40cf-9636-348501379879",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fi_FI",
+        "language_id_resource_uri": "/languages/991f65ac-4b79-4477-810f-58ff75c5385f",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "el_GR",
+        "language_id_resource_uri": "/languages/941d0157-7487-4de5-8124-ee96e545a656",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "he_IL",
+        "language_id_resource_uri": "/languages/5aac4532-37f4-44af-8995-8e55ab4eda0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "id_ID",
+        "language_id_resource_uri": "/languages/f3cb13a7-5062-4e2e-ad72-32dfd91dcdc7",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ms_MY",
+        "language_id_resource_uri": "/languages/5dc0ec88-734d-446d-a4b1-1763cae90516",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "th_TH",
+        "language_id_resource_uri": "/languages/8effa6ef-8070-40cf-a644-3582db8d06f9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "vi_VN",
+        "language_id_resource_uri": "/languages/c4244415-394d-4e4a-b636-b071433dcc23",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    },
+    "altId": "Sales_DirectDial_EMEA"
+  },
+  {
+    "metadata": {
+      "id": "bb4e34b7-5fa6-4442-8bfa-85531b0ccb09",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.1",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-02-16T15:23:03.828Z",
+        "createdBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802",
+        "updatedOn": "2022-02-16T15:23:18.953Z",
+        "updatedBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bb4e34b7-5fa6-4442-8bfa-85531b0ccb09?version=1.1",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bb4e34b7-5fa6-4442-8bfa-85531b0ccb09?version=1.0"
+    },
+    "id": "bb4e34b7-5fa6-4442-8bfa-85531b0ccb09",
+    "business_segment_id": "324083",
+    "business_segment_name": "VR_Operations_EMEA",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "en_IN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_GB",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "cs_CZ",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "da_DK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "de_DE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "el_GR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_MX",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_ES",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fi_FI",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_FR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_CA",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "he_IL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "hr_HR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "id_ID",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "is_IS",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "it_IT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ja_JP",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ko_KR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ms_MY",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nb_NO",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nl_NL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pl_PL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_PT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_BR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ru_RU",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "sv_SE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "th_TH",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "tr_TR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_HK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_TW",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_CN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "vi_VN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "",
+      "agent_avatar_url": "",
+      "branding_images_url": "",
+      "icon_url": "https://csvcus.homeaway.com/rsrcs/inquiry-bot/vrbo.png",
+      "web_bookings_url": "",
+      "loyalty_enabled": false,
+      "transfer_to_partners": []
+    },
+    "altId": "Operations_EMEA"
+  },
+  {
+    "metadata": {
+      "id": "c26e9fc5-d2f8-4438-8b25-ac7dc260fd72",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.1",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-02-16T15:18:20.550Z",
+        "createdBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802",
+        "updatedOn": "2022-02-16T15:19:00.610Z",
+        "updatedBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c26e9fc5-d2f8-4438-8b25-ac7dc260fd72?version=1.1",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c26e9fc5-d2f8-4438-8b25-ac7dc260fd72?version=1.0"
+    },
+    "id": "c26e9fc5-d2f8-4438-8b25-ac7dc260fd72",
+    "business_segment_id": "869994",
+    "business_segment_name": "VR_Operations_AMER",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "en_GB",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "cs_CZ",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "da_DK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "de_DE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "el_GR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_IN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_MX",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_ES",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fi_FI",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_CA",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_FR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "he_IL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "hr_HR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "id_ID",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "is_IS",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "it_IT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ja_JP",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ko_KR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ms_MY",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nb_NO",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nl_NL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pl_PL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_PT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_BR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ru_RU",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "sv_SE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "th_TH",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "tr_TR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "vi_VN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_TW",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_CN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_HK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "",
+      "agent_avatar_url": "",
+      "branding_images_url": "",
+      "icon_url": "https://csvcus.homeaway.com/rsrcs/inquiry-bot/vrbo.png",
+      "web_bookings_url": "",
+      "loyalty_enabled": false,
+      "transfer_to_partners": []
+    },
+    "altId": "Operations_AMER"
+  },
+  {
+    "metadata": {
+      "id": "d3ba8268-d446-494e-8597-3045cffbde43",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.2",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-02-16T15:12:16.037Z",
+        "createdBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802",
+        "updatedOn": "2022-02-16T15:13:04.198Z",
+        "updatedBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d3ba8268-d446-494e-8597-3045cffbde43?version=1.2",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d3ba8268-d446-494e-8597-3045cffbde43?version=1.1"
+    },
+    "id": "d3ba8268-d446-494e-8597-3045cffbde43",
+    "business_segment_id": "911304",
+    "business_segment_name": "VR_Sales_DirectDial_APAC",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "cs_CZ",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "da_DK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "de_DE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "el_GR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_GB",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_US",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "en_IN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_ES",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_MX",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fi_FI",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_CA",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_FR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "he_IL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "hr_HR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "id_ID",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "is_IS",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "it_IT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ja_JP",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ko_KR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ms_MY",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nb_NO",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nl_NL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pl_PL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_PT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_BR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ru_RU",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "sv_SE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "th_TH",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "tr_TR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "vi_VN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_HK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_TW",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_CN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "",
+      "agent_avatar_url": "",
+      "branding_images_url": "",
+      "icon_url": "https://csvcus.homeaway.com/rsrcs/inquiry-bot/vrbo.png",
+      "web_bookings_url": "",
+      "loyalty_enabled": false,
+      "transfer_to_partners": []
+    },
+    "altId": "Sales_DirectDial_APAC"
+  },
+  {
+    "metadata": {
+      "id": "703cec00-056b-4a14-9fcb-687896fac041",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.2",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2022-02-16T14:37:14.916Z",
+        "createdBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802",
+        "updatedOn": "2022-02-16T14:40:03.329Z",
+        "updatedBy": "USER : 7bab9dd9-bcaf-4546-a299-14fb1e01e802"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/703cec00-056b-4a14-9fcb-687896fac041?version=1.2",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/703cec00-056b-4a14-9fcb-687896fac041?version=1.1"
+    },
+    "id": "703cec00-056b-4a14-9fcb-687896fac041",
+    "business_segment_id": "112229",
+    "business_segment_name": "VR_Sales_DirectDial_AMER",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_GB",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_US",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "fr_FR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_CA",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "de_DE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ja_JP",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_CN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_ES",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_MX",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_IN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "da_DK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nl_NL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "is_IS",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "it_IT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ko_KR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nb_NO",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pl_PL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_BR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_PT",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ru_RU",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "sv_SE",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "tr_TR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_TW",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_HK",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "hr_HR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "cs_CZ",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fi_FI",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "el_GR",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "he_IL",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "id_ID",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ms_MY",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "th_TH",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "vi_VN",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "",
+      "agent_avatar_url": "",
+      "branding_images_url": "",
+      "icon_url": "https://csvcus.homeaway.com/rsrcs/inquiry-bot/vrbo.png",
+      "web_bookings_url": "",
+      "loyalty_enabled": false,
+      "transfer_to_partners": []
+    },
+    "altId": "Sales_DirectDial_AMER"
+  },
+  {
+    "metadata": {
+      "id": "bb4ed5dc-0f06-4162-b4d6-6934e4ce1691",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-10-28T05:38:02.675Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-10-28T05:38:02.675Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bb4ed5dc-0f06-4162-b4d6-6934e4ce1691?version=1.0"
+    },
+    "id": "bb4ed5dc-0f06-4162-b4d6-6934e4ce1691",
+    "business_segment_id": "490424",
+    "business_segment_name": "anikayadav Sandbox Business Segment",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "a97a50f7-953e-436e-b444-daeb86001777",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-10-27T05:56:12.936Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-10-27T05:56:12.936Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a97a50f7-953e-436e-b444-daeb86001777?version=1.0"
+    },
+    "id": "a97a50f7-953e-436e-b444-daeb86001777",
+    "business_segment_id": "274399",
+    "business_segment_name": "anikyadav Sandbox Business Segment",
+    "languages": [
+      {
+        "brand_enabled": false,
+        "gco_enabled": false,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "a265ef92-d185-4dfd-9504-185714c75b34",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.23",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-10-21T09:08:42.684Z",
+        "createdBy": "SERVICE : 2ivj6ncetf3lc5d2ic1himekpo",
+        "updatedOn": "2021-08-27T08:18:43.185Z",
+        "updatedBy": "SERVICE : 2031ec1lcs5182vkd7hko5aael"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a265ef92-d185-4dfd-9504-185714c75b34?version=1.23",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a265ef92-d185-4dfd-9504-185714c75b34?version=1.22"
+    },
+    "id": "a265ef92-d185-4dfd-9504-185714c75b34",
+    "business_segment_id": "431563",
+    "business_segment_name": "VRBO - Dev",
+    "company_code": "10140",
+    "jurisdiction": "USA",
+    "management_unit": "6610",
+    "tpid": "VRBODEV",
+    "eapid": "VRBODEV",
+    "site_id": "9001",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "en_GB",
+        "language_id_resource_uri": "/languages/886564d2-acc3-4dcf-ab1c-534b5edfff71",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_FR",
+        "language_id_resource_uri": "/languages/4cf6cffc-3895-4a3a-a252-05ab91353a0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fr_CA",
+        "language_id_resource_uri": "/languages/b766129e-8e6a-428e-ad4b-84db222513d4",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "de_DE",
+        "language_id_resource_uri": "/languages/ad8fd7f5-01b4-4f5e-bed0-6909c8cd67a2",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ja_JP",
+        "language_id_resource_uri": "/languages/ceba07a0-1788-4878-be50-9f2dcc856ab9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_CN",
+        "language_id_resource_uri": "/languages/5aa10b8b-41cf-4bb0-8868-2b60a2915d78",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_ES",
+        "language_id_resource_uri": "/languages/0b483738-d8df-46b6-a8a7-cebc77eb34b3",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "es_MX",
+        "language_id_resource_uri": "/languages/1cafdd51-c1fb-4aaf-b1b0-49f740f968d0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "en_IN",
+        "language_id_resource_uri": "/languages/f2cce3d1-026c-485d-a208-d833959705fb",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "da_DK",
+        "language_id_resource_uri": "/languages/0f429850-da75-424e-9752-74b221ec3c22",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nl_NL",
+        "language_id_resource_uri": "/languages/e62cd8f8-f74d-4eb9-98e6-a2cde3f7eb72",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "is_IS",
+        "language_id_resource_uri": "/languages/5e7ea147-d1ed-4532-bad3-4526c490b190",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "it_IT",
+        "language_id_resource_uri": "/languages/e09a9e58-8316-49c9-b6eb-574d9a172464",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ko_KR",
+        "language_id_resource_uri": "/languages/7833f648-a196-4b3e-aa42-be91f13b8ef0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "nb_NO",
+        "language_id_resource_uri": "/languages/2017df03-b8c6-446f-bf69-5592b21e92a4",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pl_PL",
+        "language_id_resource_uri": "/languages/d03e9573-f53c-4a90-b0b0-551977fa33da",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_BR",
+        "language_id_resource_uri": "/languages/2041bd5d-07f7-4b25-a387-48cf1393f2f0",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "pt_PT",
+        "language_id_resource_uri": "/languages/5423dee9-4f0d-4c9e-84be-b0c9af0b4a7a",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ru_RU",
+        "language_id_resource_uri": "/languages/6840df8e-aa80-4e83-8581-4c2c457c6fe2",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "sv_SE",
+        "language_id_resource_uri": "/languages/7889cae5-5b09-4d0a-97e6-3ac7da02684e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "tr_TR",
+        "language_id_resource_uri": "/languages/33028519-7a42-45de-88f0-743db1f75928",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_TW",
+        "language_id_resource_uri": "/languages/f1081e19-3650-46f5-8330-ba2f622f5e03",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "zh_HK",
+        "language_id_resource_uri": "/languages/60242b62-c987-420e-aff4-588fa064786f",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "hr_HR",
+        "language_id_resource_uri": "/languages/f0ba2ce4-c9d8-4f45-8bfc-afcd486a3e9c",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "cs_CZ",
+        "language_id_resource_uri": "/languages/6eb66f1c-3d1d-40cf-9636-348501379879",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "fi_FI",
+        "language_id_resource_uri": "/languages/991f65ac-4b79-4477-810f-58ff75c5385f",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "el_GR",
+        "language_id_resource_uri": "/languages/941d0157-7487-4de5-8124-ee96e545a656",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "he_IL",
+        "language_id_resource_uri": "/languages/5aac4532-37f4-44af-8995-8e55ab4eda0e",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "id_ID",
+        "language_id_resource_uri": "/languages/f3cb13a7-5062-4e2e-ad72-32dfd91dcdc7",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "ms_MY",
+        "language_id_resource_uri": "/languages/5dc0ec88-734d-446d-a4b1-1763cae90516",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "th_TH",
+        "language_id_resource_uri": "/languages/8effa6ef-8070-40cf-a644-3582db8d06f9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      },
+      {
+        "language_id": "vi_VN",
+        "language_id_resource_uri": "/languages/c4244415-394d-4e4a-b636-b071433dcc23",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "https://csvcus.homeaway.com/rsrcs/inquiry-bot/vrbo.png",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    },
+    "altId": "VRBO_DEV"
+  },
+  {
+    "metadata": {
+      "id": "1c8748d2-94cb-4c4d-9a3f-e0c2a37b9cc0",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-08-19T06:08:52.927Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-08-19T06:08:52.927Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/1c8748d2-94cb-4c4d-9a3f-e0c2a37b9cc0?version=1.0"
+    },
+    "id": "1c8748d2-94cb-4c4d-9a3f-e0c2a37b9cc0",
+    "business_segment_id": "240245",
+    "business_segment_name": "shjindal Sandbox Business Segment 1",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "30e34884-0138-41f1-b200-43c01d05a4a0",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.0",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-08-18T05:14:08.238Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-08-18T05:14:08.238Z",
+        "updatedBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/30e34884-0138-41f1-b200-43c01d05a4a0?version=1.0"
+    },
+    "id": "30e34884-0138-41f1-b200-43c01d05a4a0",
+    "business_segment_id": "401546",
+    "business_segment_name": "shjindal Sandbox Business Segment",
+    "languages": [
+      {
+        "brand_enabled": false,
+        "gco_enabled": false,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "fa2c07df-5930-460e-959f-505070911471",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.16",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-09T18:47:42.573Z",
+        "createdBy": "USER : a45a7a71-029c-4e80-8934-a64c2c2a3c9f",
+        "updatedOn": "2021-07-20T22:59:30.554Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/fa2c07df-5930-460e-959f-505070911471?version=1.16",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/fa2c07df-5930-460e-959f-505070911471?version=1.15"
+    },
+    "id": "fa2c07df-5930-460e-959f-505070911471",
+    "business_segment_id": "185807",
+    "business_segment_name": "vr-shoppingbot-stage",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO200",
+    "eapid": "VRBO200",
+    "site_id": "VRBO200",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-185807-c3-001",
+      "33660-185807-c3-002"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    },
+    "altId": "shoppingbot_stage"
+  },
+  {
+    "metadata": {
+      "id": "d4d5b9ed-ddca-4ade-a3e2-8b119cf7ec08",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-05-26T12:22:58.675Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.553Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d4d5b9ed-ddca-4ade-a3e2-8b119cf7ec08?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d4d5b9ed-ddca-4ade-a3e2-8b119cf7ec08?version=1.10"
+    },
+    "id": "d4d5b9ed-ddca-4ade-a3e2-8b119cf7ec08",
+    "business_segment_id": "994602",
+    "business_segment_name": "Test Sandbox Arrival Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "3d65a173-ddff-4eb7-aaaa-21be34dd6590",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-06-10T12:04:57.464Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.540Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/3d65a173-ddff-4eb7-aaaa-21be34dd6590?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/3d65a173-ddff-4eb7-aaaa-21be34dd6590?version=1.10"
+    },
+    "id": "3d65a173-ddff-4eb7-aaaa-21be34dd6590",
+    "business_segment_id": "371714",
+    "business_segment_name": "snsinha Sandbox Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "7a87417e-3a92-4dda-8f86-0c090cf56fca",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-06-09T07:02:28.385Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.512Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7a87417e-3a92-4dda-8f86-0c090cf56fca?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7a87417e-3a92-4dda-8f86-0c090cf56fca?version=1.10"
+    },
+    "id": "7a87417e-3a92-4dda-8f86-0c090cf56fca",
+    "business_segment_id": "994881",
+    "business_segment_name": "vivsharma Arrival Bot Sandbox Business Segment",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "bc599031-7e93-40d0-a4f6-54387c1199ca",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.25",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-09-21T09:47:41.384Z",
+        "createdBy": "SERVICE : 2ivj6ncetf3lc5d2ic1himekpo",
+        "updatedOn": "2021-07-20T22:59:30.510Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca?version=1.25",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca?version=1.24"
+    },
+    "id": "bc599031-7e93-40d0-a4f6-54387c1199ca",
+    "business_segment_id": "431470",
+    "business_segment_name": "VRBO Business Segment - Stage",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO2",
+    "eapid": "VRBO2",
+    "site_id": "VRBO2",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-431470-c3-1031",
+      "33660-431470-c3-1042",
+      "33660-431470-c3-1043",
+      "33660-431470-c3-1050",
+      "33660-431470-c3-1051",
+      "33660-431470-c3-1056",
+      "33660-431470-voyager_next-1324",
+      "33660-431470-c3-008",
+      "33660-431470-c3-009"
+    ],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "7d532ee8-ed11-40ea-8d8a-92404724fea2",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:53:45.642Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.460Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7d532ee8-ed11-40ea-8d8a-92404724fea2?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7d532ee8-ed11-40ea-8d8a-92404724fea2?version=1.16"
+    },
+    "id": "7d532ee8-ed11-40ea-8d8a-92404724fea2",
+    "business_segment_id": "710906",
+    "business_segment_name": "vr-shoppingbot-ASCHORSCH",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO101",
+    "eapid": "VRBO102",
+    "site_id": "VRBO102",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-710906-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "a8c01b7e-6480-4d24-8280-342f04dfa0bc",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.16",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T06:52:52.273Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.459Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a8c01b7e-6480-4d24-8280-342f04dfa0bc?version=1.16",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a8c01b7e-6480-4d24-8280-342f04dfa0bc?version=1.15"
+    },
+    "id": "a8c01b7e-6480-4d24-8280-342f04dfa0bc",
+    "business_segment_id": "736612",
+    "business_segment_name": "pankaj Sandbox Business Segment",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO109",
+    "eapid": "VRBO109",
+    "site_id": "VRBO109",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "68ccd5e7-388e-40d9-a8f2-55809464f9f5",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.13",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-11T08:57:20.768Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.437Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/68ccd5e7-388e-40d9-a8f2-55809464f9f5?version=1.13",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/68ccd5e7-388e-40d9-a8f2-55809464f9f5?version=1.12"
+    },
+    "id": "68ccd5e7-388e-40d9-a8f2-55809464f9f5",
+    "business_segment_id": "458580",
+    "business_segment_name": "rtoshniwal Sandbox Business Segment",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "145c7021-bf6f-4244-a196-ed7fb8949e50",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-06-09T11:19:34.584Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.433Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/145c7021-bf6f-4244-a196-ed7fb8949e50?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/145c7021-bf6f-4244-a196-ed7fb8949e50?version=1.10"
+    },
+    "id": "145c7021-bf6f-4244-a196-ed7fb8949e50",
+    "business_segment_id": "221566",
+    "business_segment_name": "yrajpal Arrival Sandbox Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "d917c392-9b6d-45fc-9a75-de33dd050e4f",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:56:31.585Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.428Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d917c392-9b6d-45fc-9a75-de33dd050e4f?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d917c392-9b6d-45fc-9a75-de33dd050e4f?version=1.16"
+    },
+    "id": "d917c392-9b6d-45fc-9a75-de33dd050e4f",
+    "business_segment_id": "779640",
+    "business_segment_name": "vr-shoppingbot-RAKROBERTS",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO104",
+    "eapid": "VRBO104",
+    "site_id": "VRBO104",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-779640-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "07a2a19e-c09b-40d6-b488-fba471eb08f0",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:54:48.470Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.410Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/07a2a19e-c09b-40d6-b488-fba471eb08f0?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/07a2a19e-c09b-40d6-b488-fba471eb08f0?version=1.16"
+    },
+    "id": "07a2a19e-c09b-40d6-b488-fba471eb08f0",
+    "business_segment_id": "705370",
+    "business_segment_name": "vr-shoppingbot-KASHORN",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO114",
+    "eapid": "VRBO114",
+    "site_id": "VRBO114",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "ja_JP",
+        "language_id_resource_uri": "/languages/ceba07a0-1788-4878-be50-9f2dcc856ab9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [
+      "33660-705370-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "27efc87c-8850-470a-b348-724cb80dec90",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-06-22T11:07:24.706Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.407Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/27efc87c-8850-470a-b348-724cb80dec90?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/27efc87c-8850-470a-b348-724cb80dec90?version=1.10"
+    },
+    "id": "27efc87c-8850-470a-b348-724cb80dec90",
+    "business_segment_id": "113056",
+    "business_segment_name": "Vrbo Arrival Bot Sandbox Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "b7bdea2c-f985-44cd-a913-7aae8fa9ee2d",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-02T21:36:51.659Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.406Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/b7bdea2c-f985-44cd-a913-7aae8fa9ee2d?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/b7bdea2c-f985-44cd-a913-7aae8fa9ee2d?version=1.16"
+    },
+    "id": "b7bdea2c-f985-44cd-a913-7aae8fa9ee2d",
+    "business_segment_id": "913394",
+    "business_segment_name": "vr-shoppingbot-araghavendran",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO112",
+    "eapid": "VRBO112",
+    "site_id": "VRBO112",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-913394-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "5fc41ecd-014c-40f0-aa15-bbcb205d762e",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.13",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-03-26T05:56:30.299Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.402Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/5fc41ecd-014c-40f0-aa15-bbcb205d762e?version=1.13",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/5fc41ecd-014c-40f0-aa15-bbcb205d762e?version=1.12"
+    },
+    "id": "5fc41ecd-014c-40f0-aa15-bbcb205d762e",
+    "business_segment_id": "852486",
+    "business_segment_name": "agupta8 Sandbox Business Segment",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "6d2cae0b-1a51-4374-942e-57642f108f7f",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.13",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-05-26T15:20:30.255Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.399Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/6d2cae0b-1a51-4374-942e-57642f108f7f?version=1.13",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/6d2cae0b-1a51-4374-942e-57642f108f7f?version=1.12"
+    },
+    "id": "6d2cae0b-1a51-4374-942e-57642f108f7f",
+    "business_segment_id": "6d2cae0b-1a51-4374-942e-57642f108f7f",
+    "business_segment_name": "DimpiJ Sandbox Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "718fd919-add8-4bf3-b6c0-dad3ee90437e",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.12",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-05-10T10:34:05.363Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.383Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/718fd919-add8-4bf3-b6c0-dad3ee90437e?version=1.12",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/718fd919-add8-4bf3-b6c0-dad3ee90437e?version=1.11"
+    },
+    "id": "718fd919-add8-4bf3-b6c0-dad3ee90437e",
+    "business_segment_id": "230136",
+    "business_segment_name": "vivsharma Sandbox Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      },
+      {
+        "language_id": "ja_JP",
+        "language_id_resource_uri": "/languages/ceba07a0-1788-4878-be50-9f2dcc856ab9",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": false
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "55457b78-7604-46c0-8678-c99573c54342",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:54:18.938Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.381Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/55457b78-7604-46c0-8678-c99573c54342?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/55457b78-7604-46c0-8678-c99573c54342?version=1.16"
+    },
+    "id": "55457b78-7604-46c0-8678-c99573c54342",
+    "business_segment_id": "382749",
+    "business_segment_name": "vr-shoppingbot-V-ADISHMAN",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO102",
+    "eapid": "VRBO102",
+    "site_id": "VRBO102",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-382749-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "86d32bdc-e73c-4a5c-943e-4e698ed5d0dc",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-04-22T06:52:14.059Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.375Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/86d32bdc-e73c-4a5c-943e-4e698ed5d0dc?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/86d32bdc-e73c-4a5c-943e-4e698ed5d0dc?version=1.10"
+    },
+    "id": "86d32bdc-e73c-4a5c-943e-4e698ed5d0dc",
+    "business_segment_id": "421151",
+    "business_segment_name": "yrajpal Sandbox Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "24506437-39d4-47d4-ae54-127fc12dc992",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-06-24T14:30:26.982Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.372Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/24506437-39d4-47d4-ae54-127fc12dc992?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/24506437-39d4-47d4-ae54-127fc12dc992?version=1.10"
+    },
+    "id": "24506437-39d4-47d4-ae54-127fc12dc992",
+    "business_segment_id": "721048",
+    "business_segment_name": "yrajpal Arrival bot BS",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "64eccec9-3407-4922-9ad5-3a5d2378403e",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-06-02T11:37:29.606Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.372Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/64eccec9-3407-4922-9ad5-3a5d2378403e?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/64eccec9-3407-4922-9ad5-3a5d2378403e?version=1.10"
+    },
+    "id": "64eccec9-3407-4922-9ad5-3a5d2378403e",
+    "business_segment_id": "539451",
+    "business_segment_name": "JDimpi Sandbox Business Segment",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "c2fbc057-f443-41ba-97eb-e7926aa6847c",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:56:10.822Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.368Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c2fbc057-f443-41ba-97eb-e7926aa6847c?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/c2fbc057-f443-41ba-97eb-e7926aa6847c?version=1.16"
+    },
+    "id": "c2fbc057-f443-41ba-97eb-e7926aa6847c",
+    "business_segment_id": "462839",
+    "business_segment_name": "vr-shoppingbot-NIBAHUGUNA",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO106",
+    "eapid": "VRBO106",
+    "site_id": "VRBO106",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-462839-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "d06ed25d-47c7-4377-9483-036834c0340a",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.16",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-07T07:41:36.587Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.365Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d06ed25d-47c7-4377-9483-036834c0340a?version=1.16",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d06ed25d-47c7-4377-9483-036834c0340a?version=1.15"
+    },
+    "id": "d06ed25d-47c7-4377-9483-036834c0340a",
+    "business_segment_id": "941677",
+    "business_segment_name": "pgakhar Sandbox Business Segment",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO100",
+    "eapid": "VRBO100",
+    "site_id": "VRBO100",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "a159f9c2-d04c-4356-af03-308a79ae85b7",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:56:46.362Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.345Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a159f9c2-d04c-4356-af03-308a79ae85b7?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/a159f9c2-d04c-4356-af03-308a79ae85b7?version=1.16"
+    },
+    "id": "a159f9c2-d04c-4356-af03-308a79ae85b7",
+    "business_segment_id": "245330",
+    "business_segment_name": "vr-shoppingbot-SCHAVA",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO107",
+    "eapid": "VRBO107",
+    "site_id": "VRBO107",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-245330-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "3ae98984-52cc-4cd6-8f35-11f863c53613",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.13",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-02-19T21:29:59.175Z",
+        "createdBy": "SERVICE : 37qaa9lk9cucuetc5b1r5kbh7b",
+        "updatedOn": "2021-07-20T22:59:30.337Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/3ae98984-52cc-4cd6-8f35-11f863c53613?version=1.13",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/3ae98984-52cc-4cd6-8f35-11f863c53613?version=1.12"
+    },
+    "id": "3ae98984-52cc-4cd6-8f35-11f863c53613",
+    "business_segment_id": "536456",
+    "business_segment_name": "Ayayron Sandbox Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "da15adb8-6701-42f6-867f-3092eb412960",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.16",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T06:19:14.362Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.331Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/da15adb8-6701-42f6-867f-3092eb412960?version=1.16",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/da15adb8-6701-42f6-867f-3092eb412960?version=1.15"
+    },
+    "id": "da15adb8-6701-42f6-867f-3092eb412960",
+    "business_segment_id": "351509",
+    "business_segment_name": "Test Sandbox Business Segment",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO113",
+    "eapid": "VRBO113",
+    "site_id": "VRBO113",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "df7fe70e-4ea5-4097-ad32-09217043eec6",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.14",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-10T19:04:32.052Z",
+        "createdBy": "USER : a45a7a71-029c-4e80-8934-a64c2c2a3c9f",
+        "updatedOn": "2021-07-20T22:59:30.278Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/df7fe70e-4ea5-4097-ad32-09217043eec6?version=1.14",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/df7fe70e-4ea5-4097-ad32-09217043eec6?version=1.13"
+    },
+    "id": "df7fe70e-4ea5-4097-ad32-09217043eec6",
+    "business_segment_id": "413016",
+    "business_segment_name": "vr-shoppingbot-brau",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO150",
+    "eapid": "VRBO150",
+    "site_id": "VRBO150",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-413016-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "95c20c61-b122-4c03-a6ea-3d1593b8dec3",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.18",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-08T14:25:43.005Z",
+        "createdBy": "SERVICE : d0hcqjn2n7174cpe3ee91hrr3",
+        "updatedOn": "2021-07-20T22:59:30.265Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/95c20c61-b122-4c03-a6ea-3d1593b8dec3?version=1.18",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/95c20c61-b122-4c03-a6ea-3d1593b8dec3?version=1.17"
+    },
+    "id": "95c20c61-b122-4c03-a6ea-3d1593b8dec3",
+    "business_segment_id": "vr-shopping-test",
+    "business_segment_name": "vr-shopping-test",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO105",
+    "eapid": "VRBO105",
+    "site_id": "VRBO105",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-vr-shopping-test-c3-001",
+      "33660-vr-shopping-test-c3-002"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "72b69c69-fc06-4110-9e99-dfda2bbdc63f",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-05-24T06:32:26.125Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.258Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/72b69c69-fc06-4110-9e99-dfda2bbdc63f?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/72b69c69-fc06-4110-9e99-dfda2bbdc63f?version=1.10"
+    },
+    "id": "72b69c69-fc06-4110-9e99-dfda2bbdc63f",
+    "business_segment_id": "550846",
+    "business_segment_name": " Sandbox Business Segment",
+    "languages_resource_uris": [],
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs_resource_uri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bc599031-7e93-40d0-a4f6-54387c1199ca/partnersettings/32c77ca6-ed8e-40a3-8efe-e1467c8922b5",
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "b01cf96b-33c7-404e-9fbe-8293ff181cfd",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.16",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-11-11T18:16:35.304Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.252Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/b01cf96b-33c7-404e-9fbe-8293ff181cfd?version=1.16",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/b01cf96b-33c7-404e-9fbe-8293ff181cfd?version=1.15"
+    },
+    "id": "b01cf96b-33c7-404e-9fbe-8293ff181cfd",
+    "business_segment_id": "781612",
+    "business_segment_name": "SANDBOX-SEGMENT",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO108",
+    "eapid": "VRBO108",
+    "site_id": "VRBO108",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "7da36979-94e8-483e-a896-5339c048f78c",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:55:25.843Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.246Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7da36979-94e8-483e-a896-5339c048f78c?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/7da36979-94e8-483e-a896-5339c048f78c?version=1.16"
+    },
+    "id": "7da36979-94e8-483e-a896-5339c048f78c",
+    "business_segment_id": "459104",
+    "business_segment_name": "vr-shoppingbot-LSIMS",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO110",
+    "eapid": "VRBO110",
+    "site_id": "VRBO110",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-459104-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "d847146e-1a7d-47c8-b76e-93f221c67256",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.17",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-03T00:55:46.478Z",
+        "createdBy": "SERVICE : 5h0h7a8njhkukqrtumvgn0p8vg",
+        "updatedOn": "2021-07-20T22:59:30.245Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d847146e-1a7d-47c8-b76e-93f221c67256?version=1.17",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/d847146e-1a7d-47c8-b76e-93f221c67256?version=1.16"
+    },
+    "id": "d847146e-1a7d-47c8-b76e-93f221c67256",
+    "business_segment_id": "176560",
+    "business_segment_name": "vr-shoppingbot-MORLOVICH",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO103",
+    "eapid": "VRBO103",
+    "site_id": "VRBO103",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-176560-c3-001"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  },
+  {
+    "metadata": {
+      "id": "f0638379-c088-466a-a59b-99984edfece4",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.18",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2020-12-08T14:28:43.814Z",
+        "createdBy": "SERVICE : d0hcqjn2n7174cpe3ee91hrr3",
+        "updatedOn": "2021-07-20T22:59:30.236Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/f0638379-c088-466a-a59b-99984edfece4?version=1.18",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/f0638379-c088-466a-a59b-99984edfece4?version=1.17"
+    },
+    "id": "f0638379-c088-466a-a59b-99984edfece4",
+    "business_segment_id": "vr-shopping-stage",
+    "business_segment_name": "vr-shopping-stage",
+    "company_code": "NA",
+    "jurisdiction": "NA",
+    "management_unit": "NA",
+    "tpid": "VRBO111",
+    "eapid": "VRBO110",
+    "site_id": "VRBO110",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [
+      "33660-vr-shopping-stage-c3-001",
+      "33660-vr-shopping-stage-c3-002"
+    ],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    },
+    "altId": "shopping_stage"
+  },
+  {
+    "metadata": {
+      "id": "bbb1e3ca-ce4e-46ac-8abb-f2763c48d8a3",
+      "resourceType": "businesssegment",
+      "schemaUri": "/schemas/cp.BusinessSegment_v1",
+      "version": "1.11",
+      "container": {
+        "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/"
+      },
+      "audit": {
+        "createdOn": "2021-06-14T10:28:49.632Z",
+        "createdBy": "SERVICE : 2e6t3qn4gugdkldv4313clc216",
+        "updatedOn": "2021-07-20T22:59:30.192Z",
+        "updatedBy": "USER : 9cca41f0-2abe-447a-a125-12f99e0637d6"
+      },
+      "state": "ACTIVE",
+      "resourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bbb1e3ca-ce4e-46ac-8abb-f2763c48d8a3?version=1.11",
+      "resourceSourceUri": "/partners/75e32ff5-7442-41b2-80ef-a70911b19f57/businesssegments/bbb1e3ca-ce4e-46ac-8abb-f2763c48d8a3?version=1.10"
+    },
+    "id": "bbb1e3ca-ce4e-46ac-8abb-f2763c48d8a3",
+    "business_segment_id": "864711",
+    "business_segment_name": "yrajpal Arrival bot Business Segment",
+    "languages": [
+      {
+        "language_id": "en_US",
+        "language_id_resource_uri": "/languages/da06f3af-a08c-4cd8-9abb-8b6a05b5978d",
+        "brand_enabled": true,
+        "gco_enabled": true,
+        "default_language": true
+      }
+    ],
+    "channel_origins": [],
+    "configs": {
+      "bot_avatar_url": "NA",
+      "agent_avatar_url": "NA",
+      "branding_images_url": "NA",
+      "icon_url": "NA",
+      "sender_email_address": "NA",
+      "sender_full_name": "NA",
+      "web_bookings_url": "NA",
+      "loyalty_enabled": false,
+      "customer_service_url": "NA",
+      "transfer_to_partners": []
+    }
+  }
+]
